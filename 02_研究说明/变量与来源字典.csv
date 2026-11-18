@@ -1,0 +1,23 @@
+﻿变量,中文含义,单位,定义,提交目录内来源,解释
+WTMP,水温原始字段,℃,NDBC stdmet表头WTMP；999.0与无效值按规则置缺失,04_数据/各集合/raw/,原始观测；不等同于无误差的物理真值
+UTC_hour,小时桶起点,UTC,原始时刻向下取整到小时,05_实验结果/证据与缓存/hourly_lineage.csv.gz,桶内最后有效值为代表值，不是小时均值
+H,目标时刻集合,UTC小时,00、06、12、18,04_数据/各评价集合/public.json,统计对象固定为四个小时代表值
+reference / y,评分参考统计量,℃,隐藏四值的算术均值或最大值,04_数据/各评价集合/gold.json,只在评分或选定补证时揭示对应值
+prediction / y_hat,候选点预测,℃,基于可见信息的L、B、B+等路线输出,05_实验结果/近期评估与档案2021/forecasts_without_gold.csv.gz,候选值与最终可交付结论分开
+error,预测误差,℃,prediction-reference,05_实验结果/各数值评价集合/predictions.csv.gz,RMSE和MAE分别评价
+rho / raw_rho,异常相关/原始相关,无量纲,去季节异常或原始温度的Pearson相关,05_实验结果/证据与缓存/relations.csv,相关不等于增量收益或因果
+alpha,跨站增量混合系数,无量纲,开发期从0、0.25、0.5、0.75、1选择,05_实验结果/基础选路/routes.json,由开发增益控制，不用测试标签选择
+q / q_b,校准半宽/阶段半宽,℃,2024绝对残差的90%有限样本阶次；阶段按站点、策略、补证步数校准,05_实验结果/近期评估与组合2020/calibration.json,实测覆盖与名义90%分开报告
+tau,用户要求半宽,℃,0.10、0.25、0.50；主条件0.25,05_实验结果/组合2020/workflow_metrics.csv,达到门槛才交付估计
+budget / B_max,最大补证记录数,条,记录读取预算；E3为0—4，E5含上限2或4,05_实验结果/档案2021/acquisition_events.csv,同预算使用同一重建器比较选时刻
+b_star,停止阶段,条,最早满足阶段半宽不大于tau的阶段，预算内无合格阶段则未确定,05_实验结果/组合2020/workflow_events.csv.gz,四值全恢复可精确交付
+RMSE,均方根误差,℃,sqrt(mean(error^2)),05_实验结果/各集合/metrics.csv或point_metrics.csv,均值与最大值分别计算
+MAE,平均绝对误差,℃,mean(abs(error)),05_实验结果/各集合/metrics.csv或point_metrics.csv,与RMSE一起评价
+PICP / selected_PICP,经验区间覆盖率,比例,参考值落入区间的比例；selected为已交付估计子集,05_实验结果/同点统计/interval_metrics.csv；组合2020/workflow_metrics.csv,同时报告区间个数及选择范围
+MPIW,平均预测区间宽度,℃,mean(upper-lower),05_实验结果/同点统计/interval_metrics.csv,结合PICP与区间评分，不单独追求变窄
+delivery_rate,交付率,比例,已交付请求数/全部请求数,05_实验结果/组合2020/workflow_metrics.csv,不能省略未交付请求
+qualified_rate,精度成功交付率,比例,交付且绝对误差不大于tau的请求数/全部请求数,05_实验结果/组合2020/workflow_metrics.csv,分母为919，与已交付子集准确率不同
+avg_records,平均恢复记录数,条/请求,全部请求实际恢复记录总数/请求数,05_实验结果/组合2020/workflow_metrics.csv,读取成本代理，不是完整在线服务时延
+P50_ms / P95_ms,中位/95分位时延,毫秒,每运行处理事件的经验分位；报告再汇总运行中位数,05_实验结果/证据与缓存/cache_metrics.csv,局部缓存计时环境下结果
+unsafe_rate,错误复用率,比例,错误复用事件数/处理事件数,05_实验结果/证据与缓存/cache_metrics.csv,与时延共同评价
+case_id / source_line,请求标识/源行,标识,保留冻结记录的原始编号和官方文本行号,04_数据/各评价集合/hourly_lineage.csv.gz,历史前缀保留以维持追溯，不代表另提交一份旧实验

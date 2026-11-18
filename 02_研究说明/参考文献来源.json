@@ -1,0 +1,339 @@
+{
+  "updated": "2026-11-14",
+  "scope": "Retained 29 previously checked references plus 2 new primary design sources. Actual bibliography and first-appearance remapping retained.",
+  "references": [
+    {
+      "reference_number": 1,
+      "bibliography": "[1] 课程课件. 第6讲 课时3 答案很顺引用全歪[Z]. 海洋数据挖掘技术课程资料: 9-11,14. 课程对应与原始材料索引见02_研究说明/课程依据.md。",
+      "urls": [],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 1,
+      "local_evidence": "02_研究说明/课程依据.md"
+    },
+    {
+      "reference_number": 2,
+      "bibliography": "[2] LEWIS P, PEREZ E, PIKTUS A, et al. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks[EB/OL]. (2021-04-12)[2026-11-13]. https://arxiv.org/abs/2005.11401.",
+      "urls": [
+        "https://arxiv.org/abs/2005.11401"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 8
+    },
+    {
+      "reference_number": 3,
+      "bibliography": "[3] JOREN H, ZHANG J, FERNG C S, et al. Sufficient Context: A New Lens on Retrieval Augmented Generation Systems[C/OL]. ICLR, 2025[2026-11-13]. https://research.google/pubs/sufficient-context-a-new-lens-on-retrieval-augmented-generation-systems/.",
+      "urls": [
+        "https://research.google/pubs/sufficient-context-a-new-lens-on-retrieval-augmented-generation-systems/"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 2
+    },
+    {
+      "reference_number": 4,
+      "bibliography": "[4] WEN B, YAO J, FENG S, et al. Know Your Limits: A Survey of Abstention in Large Language Models[J]. Transactions of the Association for Computational Linguistics, 2025, 13: 529-556. https://doi.org/10.1162/tacl_a_00754.",
+      "urls": [
+        "https://doi.org/10.1162/tacl_a_00754"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 3
+    },
+    {
+      "reference_number": 5,
+      "bibliography": "[5] CHEN S, HUA P, XIAO Y. Relevance Is Not Sufficient Evidence: Detecting Evidence Gaps Before Generation in RAG[EB/OL]. arXiv:2609.37469, 2026[2026-11-13]. https://arxiv.org/abs/2609.37469. 预印本.",
+      "urls": [
+        "https://arxiv.org/abs/2609.37469"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 4
+    },
+    {
+      "reference_number": 6,
+      "bibliography": "[6] MADHUSUDHAN N, MADHUSUDHAN S T, YADAV V, et al. Do LLMs Know When to NOT Answer? Investigating Abstention Abilities of Large Language Models[C/OL]. Proceedings of COLING, 2025: 9329-9345[2026-11-13]. https://aclanthology.org/2025.coling-main.627/.",
+      "urls": [
+        "https://aclanthology.org/2025.coling-main.627/"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 5
+    },
+    {
+      "reference_number": 7,
+      "bibliography": "[7] MOHRI C, HASHIMOTO T. Language Models with Conformal Factuality Guarantees[C/OL]. Proceedings of Machine Learning Research, 2024, 235: 36029-36047[2026-11-13]. https://proceedings.mlr.press/v235/mohri24a.html.",
+      "urls": [
+        "https://proceedings.mlr.press/v235/mohri24a.html"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 6
+    },
+    {
+      "reference_number": 8,
+      "bibliography": "[8] ASAI A, WU Z, WANG Y, et al. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection[EB/OL]. (2023-10-17)[2026-11-13]. https://arxiv.org/abs/2310.11511.",
+      "urls": [
+        "https://arxiv.org/abs/2310.11511"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 9
+    },
+    {
+      "reference_number": 9,
+      "bibliography": "[9] YAN S Q, GU J C, ZHU Y, et al. Corrective Retrieval Augmented Generation[EB/OL]. (2024-10-07)[2026-11-13]. https://arxiv.org/abs/2401.15884.",
+      "urls": [
+        "https://arxiv.org/abs/2401.15884"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 10
+    },
+    {
+      "reference_number": 10,
+      "bibliography": "[10] JEONG S, BAEK J, CHO S, et al. Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity[C/OL]//Proceedings of NAACL-HLT 2024, Volume 1. Mexico City: Association for Computational Linguistics, 2024: 7036-7050[2026-11-13]. https://doi.org/10.18653/v1/2024.naacl-long.389.",
+      "urls": [
+        "https://doi.org/10.18653/v1/2024.naacl-long.389"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 11
+    },
+    {
+      "reference_number": 11,
+      "bibliography": "[11] PING B, SU F, MENG Y. An Improved DINEOF Algorithm for Filling Missing Values in Spatio-Temporal Sea Surface Temperature Data[J]. PLoS ONE, 2016, 11(5): e0155928. https://doi.org/10.1371/journal.pone.0155928.",
+      "urls": [
+        "https://doi.org/10.1371/journal.pone.0155928"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 20
+    },
+    {
+      "reference_number": 12,
+      "bibliography": "[12] DAS A, KONG W, SEN R, et al. A decoder-only foundation model for time-series forecasting[C/OL]//Proceedings of the 41st International Conference on Machine Learning. PMLR, 2024, 235: 10148-10167[2026-11-13]. https://proceedings.mlr.press/v235/das24c.html.",
+      "urls": [
+        "https://proceedings.mlr.press/v235/das24c.html"
+      ],
+      "record_type": "new source checked in this revision",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "locator": "PMLR primary proceedings and metadata",
+      "primary_url": "https://proceedings.mlr.press/v235/das24c.html",
+      "support_and_limit": "TimesFM pretrained patched decoder forecasting; not benchmarked here.",
+      "original_reference_id": 24
+    },
+    {
+      "reference_number": 13,
+      "bibliography": "[13] ANSARI A F, SHCHUR O, KÜKEN J, et al. Chronos-2: From Univariate to Universal Forecasting[EB/OL]. (2025-10-17)[2026-11-13]. https://arxiv.org/abs/2510.15821.",
+      "urls": [
+        "https://arxiv.org/abs/2510.15821"
+      ],
+      "record_type": "new source checked in this revision",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "locator": "arXiv primary abstract",
+      "primary_url": "https://arxiv.org/abs/2510.15821",
+      "support_and_limit": "Chronos-2 group attention, multivariate and covariate-informed forecasting; not benchmarked here.",
+      "original_reference_id": 25
+    },
+    {
+      "reference_number": 14,
+      "bibliography": "[14] GEIFMAN Y, EL-YANIV R. SelectiveNet: A Deep Neural Network with an Integrated Reject Option[C/OL]//Proceedings of the 36th International Conference on Machine Learning. PMLR, 2019, 97: 2151-2159[2026-11-13]. https://proceedings.mlr.press/v97/geifman19a.html.",
+      "urls": [
+        "https://proceedings.mlr.press/v97/geifman19a.html"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 18
+    },
+    {
+      "reference_number": 15,
+      "bibliography": "[15] XU C, XIE Y. Conformal prediction interval for dynamic time-series[C/OL]. Proceedings of Machine Learning Research, 2021, 139: 11559-11569[2026-11-13]. https://proceedings.mlr.press/v139/xu21h.html.",
+      "urls": [
+        "https://proceedings.mlr.press/v139/xu21h.html"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 7
+    },
+    {
+      "reference_number": 16,
+      "bibliography": "[16] ROMANO Y, PATTERSON E, CANDÈS E J. Conformalized Quantile Regression[C/OL]//Advances in Neural Information Processing Systems 32. 2019[2026-11-13]. https://proceedings.neurips.cc/paper_files/paper/2019/hash/5103c3584b063c431bd1268e9b5e76fb-Abstract.html.",
+      "urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2019/hash/5103c3584b063c431bd1268e9b5e76fb-Abstract.html"
+      ],
+      "record_type": "new source checked in this revision",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "locator": "CQR primary proceedings abstract",
+      "primary_url": "https://proceedings.neurips.cc/paper_files/paper/2019/hash/5103c3584b063c431bd1268e9b5e76fb-Abstract.html",
+      "support_and_limit": "Conditional quantile intervals and independent calibration; original exchangeability assumptions do not establish this project guarantee.",
+      "original_reference_id": 21
+    },
+    {
+      "reference_number": 17,
+      "bibliography": "[17] GIBBS I, CANDÈS E. Adaptive Conformal Inference Under Distribution Shift[EB/OL]. (2021-10-28)[2026-11-13]. https://arxiv.org/abs/2106.00170.",
+      "urls": [
+        "https://arxiv.org/abs/2106.00170"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 19
+    },
+    {
+      "reference_number": 18,
+      "bibliography": "[18] GIBBS I, CANDÈS E J. Conformal Inference for Online Prediction with Arbitrary Distribution Shifts[J/OL]. Journal of Machine Learning Research, 2024, 25(162): 1-36[2026-11-13]. https://www.jmlr.org/papers/v25/22-1218.html.",
+      "urls": [
+        "https://www.jmlr.org/papers/v25/22-1218.html"
+      ],
+      "record_type": "new source checked in this revision",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "locator": "JMLR primary abstract and bibliographic entry",
+      "primary_url": "https://www.jmlr.org/papers/v25/22-1218.html",
+      "support_and_limit": "Online adaptation under distribution shifts; not implemented here.",
+      "original_reference_id": 22
+    },
+    {
+      "reference_number": 19,
+      "bibliography": "[19] JUN J, OHN I. Online conformal inference with retrospective adjustment for faster adaptation to distribution shift[EB/OL]. (2026-07-13)[2026-11-13]. https://arxiv.org/abs/2511.04275v2.",
+      "urls": [
+        "https://arxiv.org/abs/2511.04275v2"
+      ],
+      "record_type": "new source checked in this revision",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "locator": "arXiv v2 abstract and submission history",
+      "primary_url": "https://arxiv.org/abs/2511.04275v2",
+      "support_and_limit": "Retrospective adjustment after new observations; different from append-only verification.",
+      "original_reference_id": 23
+    },
+    {
+      "reference_number": 20,
+      "bibliography": "[20] ZHAO Y, ZHU J, DING Z, et al. GRACE: Reinforcement Learning for Grounded Response and Abstention under Contextual Evidence[EB/OL]. (2026-01-08)[2026-11-13]. https://arxiv.org/abs/2601.04525.",
+      "urls": [
+        "https://arxiv.org/abs/2601.04525"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 12
+    },
+    {
+      "reference_number": 21,
+      "bibliography": "[21] ZHAI S, LIANG J, KANG D. Abstain-R1: Calibrated Abstention and Post-Refusal Clarification via Verifiable RL[EB/OL]. (2026-04-18)[2026-11-13]. https://arxiv.org/abs/2604.17073.",
+      "urls": [
+        "https://arxiv.org/abs/2604.17073"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 13
+    },
+    {
+      "reference_number": 22,
+      "bibliography": "[22] GAO T, YEN H, YU J, et al. Enabling Large Language Models to Generate Text with Citations[C/OL]//Proceedings of EMNLP 2023. Singapore: Association for Computational Linguistics, 2023: 6465-6488[2026-11-13]. https://doi.org/10.18653/v1/2023.emnlp-main.398.",
+      "urls": [
+        "https://doi.org/10.18653/v1/2023.emnlp-main.398"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 15
+    },
+    {
+      "reference_number": 23,
+      "bibliography": "[23] ES S, JAMES J, ESPINOSA ANKE L, et al. RAGAs: Automated Evaluation of Retrieval Augmented Generation[C/OL]//Proceedings of EACL 2024: System Demonstrations. St. Julians: Association for Computational Linguistics, 2024: 150-158[2026-11-13]. https://doi.org/10.18653/v1/2024.eacl-demo.16.",
+      "urls": [
+        "https://doi.org/10.18653/v1/2024.eacl-demo.16"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 16
+    },
+    {
+      "reference_number": 24,
+      "bibliography": "[24] LIU N F, LIN K, HEWITT J, et al. Lost in the Middle: How Language Models Use Long Contexts[J]. Transactions of the Association for Computational Linguistics, 2024, 12: 157-173. https://doi.org/10.1162/tacl_a_00638.",
+      "urls": [
+        "https://doi.org/10.1162/tacl_a_00638"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 17
+    },
+    {
+      "reference_number": 25,
+      "bibliography": "[25] BANG F. GPTCache: An Open-Source Semantic Cache for LLM Applications Enabling Faster Answers and Cost Savings[C/OL]//Proceedings of NLP-OSS 2023. Singapore: Association for Computational Linguistics, 2023: 212-218[2026-11-13]. https://doi.org/10.18653/v1/2023.nlposs-1.24.",
+      "urls": [
+        "https://doi.org/10.18653/v1/2023.nlposs-1.24"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 14
+    },
+    {
+      "record_type": "Primary peer-reviewed conference source added in Thesis06",
+      "verified_utc_date": "2026-11-14",
+      "verification_actor": "AI tool-assisted primary abstract/source review; no human sign-off",
+      "design_role": "Direct basis for acquiring information versus stopping, not reproduction of reinforcement-learning classifier",
+      "reference_number": 26,
+      "original_reference_id": 30,
+      "bibliography": "[26] SHIM H, HWANG S J, YANG E. Joint Active Feature Acquisition and Classification with Variable-Size Set Encoding[C/OL]//Advances in Neural Information Processing Systems 31. 2018[2026-11-14]. https://proceedings.neurips.cc/paper/2018/hash/e5841df2166dd424a57127423d276bbe-Abstract.html.",
+      "urls": [
+        "https://proceedings.neurips.cc/paper/2018/hash/e5841df2166dd424a57127423d276bbe-Abstract.html"
+      ]
+    },
+    {
+      "record_type": "Primary journal paper added in Thesis06",
+      "verified_utc_date": "2026-11-14",
+      "verification_actor": "AI tool-assisted primary PDF review; no human sign-off",
+      "primary_pdf": "https://www.cs.columbia.edu/~verma/classes/uml/ref/clustering_minimize_intercluster_distance_gonzalez.pdf",
+      "design_role": "Subsequent theoretical analogy for time coverage, not initial origin, novelty claim or water-temperature error guarantee",
+      "reference_number": 27,
+      "original_reference_id": 31,
+      "bibliography": "[27] GONZALEZ T F. Clustering to minimize the maximum intercluster distance[J]. Theoretical Computer Science, 1985, 38: 293-306. https://doi.org/10.1016/0304-3975(85)90224-5.",
+      "urls": [
+        "https://doi.org/10.1016/0304-3975(85)90224-5"
+      ]
+    },
+    {
+      "reference_number": 28,
+      "bibliography": "[28] NOAA NATIONAL DATA BUOY CENTER. Historical Standard Meteorological Data and Measurement Descriptions[DB/OL]. [2026-11-13]. https://www.ndbc.noaa.gov/data/historical/stdmet/; https://www.ndbc.noaa.gov/faq/measdes.shtml.",
+      "urls": [
+        "https://www.ndbc.noaa.gov/data/historical/stdmet/",
+        "https://www.ndbc.noaa.gov/faq/measdes.shtml"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 26
+    },
+    {
+      "reference_number": 29,
+      "bibliography": "[29] NOAA NATIONAL DATA BUOY CENTER. Active Stations Metadata[DB/OL]. [2026-11-13]. https://www.ndbc.noaa.gov/activestations.xml.",
+      "urls": [
+        "https://www.ndbc.noaa.gov/activestations.xml"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 27
+    },
+    {
+      "reference_number": 30,
+      "bibliography": "[30] NOAA NATIONAL DATA BUOY CENTER. NDBC Web Data Guide Version 2.0[EB/OL]. [2026-11-13]. https://www.ndbc.noaa.gov/docs/ndbc_web_data_guide.pdf.",
+      "urls": [
+        "https://www.ndbc.noaa.gov/docs/ndbc_web_data_guide.pdf"
+      ],
+      "record_type": "new source checked in this revision",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "locator": "NOAA primary data guide search extraction",
+      "primary_url": "https://www.ndbc.noaa.gov/docs/ndbc_web_data_guide.pdf",
+      "support_and_limit": "Realtime recent45-day automated-QC data differs from historical postprocessed archive; direct web open returned403, the primary search extraction was available.",
+      "original_reference_id": 28
+    },
+    {
+      "reference_number": 31,
+      "bibliography": "[31] KASSIS T, AGARWAL V, HE Y, et al. Scientific Agent Skills: A Library of Procedural Knowledge for Research Agents[EB/OL]. arXiv:2609.00065, 2026[2026-11-13]. https://doi.org/10.48550/arXiv.2609.00065.",
+      "urls": [
+        "https://doi.org/10.48550/arXiv.2609.00065"
+      ],
+      "record_type": "retained from previous verified report round",
+      "verification_actor": "AI tool-assisted source review; no human sign-off claimed",
+      "original_reference_id": 29
+    }
+  ]
+}
