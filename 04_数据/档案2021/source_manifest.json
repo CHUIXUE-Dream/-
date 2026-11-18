@@ -1,0 +1,26 @@
+[
+  {
+    "station": "41009",
+    "year": 2021,
+    "url": "https://www.ndbc.noaa.gov/data/historical/stdmet/41009h2021.txt.gz",
+    "sha256": "c5c1f2681a525e761ddf4324218eaf317032bf4a42a5d9814bb55f5d8c808afc",
+    "bytes": 652180,
+    "retrieved_utc": "2026-11-13T11:51:23.863872+00:00"
+  },
+  {
+    "station": "41010",
+    "year": 2021,
+    "url": "https://www.ndbc.noaa.gov/data/historical/stdmet/41010h2021.txt.gz",
+    "sha256": "41ef6e69d829e6601f4859185880e65f3ada15927949e227b7dde0698f8355d5",
+    "bytes": 665723,
+    "retrieved_utc": "2026-11-13T11:51:26.971813+00:00"
+  },
+  {
+    "station": "41013",
+    "year": 2021,
+    "url": "https://www.ndbc.noaa.gov/data/historical/stdmet/41013h2021.txt.gz",
+    "sha256": "5847d092872e2a2da59a154bac76e671eb8af4751fa1193d039e0a15a94fd54a",
+    "bytes": 692048,
+    "retrieved_utc": "2026-11-13T11:51:30.226903+00:00"
+  }
+]

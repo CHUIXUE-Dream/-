@@ -1,0 +1,53 @@
+[
+  {
+    "id": "41009",
+    "lat": "28.508",
+    "lon": "-80.185",
+    "elev": "0",
+    "name": "CANAVERAL 20 NM East of Cape Canaveral, FL",
+    "owner": "NDBC",
+    "pgm": "NDBC Meteorological/Ocean",
+    "type": "buoy",
+    "met": "y",
+    "currents": "n",
+    "waterquality": "n",
+    "dart": "n",
+    "source_url": "https://www.ndbc.noaa.gov/activestations.xml",
+    "metadata_sha256": "55d1ac0d1204e03117dfa4b05ca0aa1a811bcab00fc6b2bcbec562490bf81b8b",
+    "metadata_scope": "current station coordinates; not verified historical deployment coordinates"
+  },
+  {
+    "id": "41010",
+    "lat": "28.86",
+    "lon": "-78.478",
+    "elev": "0",
+    "name": "CANAVERAL EAST - 120NM East of Cape Canaveral",
+    "owner": "NDBC",
+    "pgm": "NDBC Meteorological/Ocean",
+    "type": "buoy",
+    "met": "y",
+    "currents": "n",
+    "waterquality": "n",
+    "dart": "n",
+    "source_url": "https://www.ndbc.noaa.gov/activestations.xml",
+    "metadata_sha256": "55d1ac0d1204e03117dfa4b05ca0aa1a811bcab00fc6b2bcbec562490bf81b8b",
+    "metadata_scope": "current station coordinates; not verified historical deployment coordinates"
+  },
+  {
+    "id": "41013",
+    "lat": "33.436",
+    "lon": "-77.764",
+    "elev": "0",
+    "name": "Frying Pan Shoals, NC",
+    "owner": "NDBC",
+    "pgm": "NDBC Meteorological/Ocean",
+    "type": "buoy",
+    "met": "y",
+    "currents": "n",
+    "waterquality": "n",
+    "dart": "n",
+    "source_url": "https://www.ndbc.noaa.gov/activestations.xml",
+    "metadata_sha256": "55d1ac0d1204e03117dfa4b05ca0aa1a811bcab00fc6b2bcbec562490bf81b8b",
+    "metadata_scope": "current station coordinates; not verified historical deployment coordinates"
+  }
+]

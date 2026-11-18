@@ -1,0 +1,15 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "python-docx": "1.2.0",
+    "pypdf": "6.21.4",
+    "Pillow": "13.0.0"
+  },
+  "com": "locally registered Word-compatible COM; not a claim that Microsoft Word is installed"
+}

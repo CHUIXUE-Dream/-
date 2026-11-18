@@ -1,0 +1,26 @@
+[
+  {
+    "station": "41009",
+    "url": "https://www.ndbc.noaa.gov/data/realtime2/41009.txt",
+    "sha256": "3555c4cf9e4f787da62637a28daefd510168771c90ecc4eedf76199c3127ab2b",
+    "bytes": 601036,
+    "retrieved_utc": "2026-11-13T11:47:02.380869+00:00",
+    "quality": "automated realtime QC, not final archive"
+  },
+  {
+    "station": "41010",
+    "url": "https://www.ndbc.noaa.gov/data/realtime2/41010.txt",
+    "sha256": "d220de234ab6ebc3910b1e9413d9c74d49be2b6a3e5f8bc4d61949035e16cffd",
+    "bytes": 601412,
+    "retrieved_utc": "2026-11-13T11:47:04.951919+00:00",
+    "quality": "automated realtime QC, not final archive"
+  },
+  {
+    "station": "41013",
+    "url": "https://www.ndbc.noaa.gov/data/realtime2/41013.txt",
+    "sha256": "bd1c21b5cdb6b38a3c376d13700e1ce90aaca64b1faef847320fcf49728c472c",
+    "bytes": 603198,
+    "retrieved_utc": "2026-11-13T11:47:08.367946+00:00",
+    "quality": "automated realtime QC, not final archive"
+  }
+]

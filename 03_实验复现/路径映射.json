@@ -1,0 +1,932 @@
+[
+  {
+    "logical_path": "report_work/analyze05.py",
+    "path": "03_实验复现/代码/statistics.py",
+    "sha256": "2de4f33328fce91f8534cf37c72b5dc2f42a521e099c97344749bc8118662ead",
+    "bytes": 6093
+  },
+  {
+    "logical_path": "report_work/thesis02/station_quarter.csv",
+    "path": "05_实验结果/数值诊断/station_quarter.csv",
+    "sha256": "752429f9eaab61861f96fde45435c87b0ef59ac7e1075f177e4417979016be84",
+    "bytes": 1062
+  },
+  {
+    "logical_path": "report_work/thesis05/analysis/analysis_audit.json",
+    "path": "05_实验结果/同点统计/analysis_audit.json",
+    "sha256": "7833afd299b713ab91851554cfd8e627f24eae708a5d02e90896603ecd64e2c7",
+    "bytes": 849
+  },
+  {
+    "logical_path": "report_work/thesis05/analysis/interval_metrics.csv",
+    "path": "05_实验结果/同点统计/interval_metrics.csv",
+    "sha256": "48c4aeb531053259bc9d7ac8e28ffa7f9c25ffdeea83127de7aa29f1731b4372",
+    "bytes": 8721
+  },
+  {
+    "logical_path": "report_work/thesis05/analysis/interval_preferences.csv",
+    "path": "05_实验结果/同点统计/interval_preferences.csv",
+    "sha256": "b9532d1a429352752d5a6f9e5bce5bcce2af157b9adf4a5a1bed06ea5f195e83",
+    "bytes": 19388
+  },
+  {
+    "logical_path": "report_work/thesis05/analysis/observed_best.csv",
+    "path": "05_实验结果/同点统计/observed_best.csv",
+    "sha256": "7d4f6a7ce53b28399045f825bf1e0c3dbd4b8c9580af1e94c8faa3263e1f4f78",
+    "bytes": 4426
+  },
+  {
+    "logical_path": "report_work/thesis05/analysis/paired_intervals.csv",
+    "path": "05_实验结果/同点统计/paired_intervals.csv",
+    "sha256": "adcde86b309131c48ab63edc4cc9bdd99c3be29a9bb5deda473a9395749924b1",
+    "bytes": 2887
+  },
+  {
+    "logical_path": "report_work/thesis05/analysis/point_metrics.csv",
+    "path": "05_实验结果/同点统计/point_metrics.csv",
+    "sha256": "b501acb73dd70eef2531b6712679f1e84f728249071d8233f3b2e18cf334aaff",
+    "bytes": 13509
+  },
+  {
+    "logical_path": "report_work/thesis05/analysis/same_point_intervals.csv.gz",
+    "path": "05_实验结果/同点统计/same_point_intervals.csv.gz",
+    "sha256": "8a85f32d9ce53eba27fadc74d65267a54a12e23f525989ac4c1d2b64aee4af0b",
+    "bytes": 2904161
+  },
+  {
+    "logical_path": "report_work/thesis05/experiment_verification.json",
+    "path": "05_实验结果/既有核验/thesis05_experiment_verification.json",
+    "sha256": "d527bae769bfd69a04fee879683ef71c85f87e9c7d114afa39ec16853c9a1f09",
+    "bytes": 631
+  },
+  {
+    "logical_path": "report_work/thesis06/experiment_verification.json",
+    "path": "05_实验结果/既有核验/thesis06_experiment_verification.json",
+    "sha256": "81fb91c312cab4fe275d1f7393d8f7ea464d5e12fcf64aba2f091546254ca088",
+    "bytes": 712
+  },
+  {
+    "logical_path": "reproduce_from_training04.py",
+    "path": "03_实验复现/代码/refit.py",
+    "sha256": "140db40c4f2899b188431d9ed73a4f05fe7a0aa8acfad6798be98e00d26bedb1",
+    "bytes": 1573
+  },
+  {
+    "logical_path": "v3/cache_experiment.py",
+    "path": "03_实验复现/代码/cache.py",
+    "sha256": "db6e2cee3336aea572f08480e85199aeca26cd23923ec6caeac54450733920c1",
+    "bytes": 10310
+  },
+  {
+    "logical_path": "v3/data/manifest.json",
+    "path": "04_数据/历史建模/manifest.json",
+    "sha256": "dcdad735d20f12c8b027e9b5e04273d8e7c847ff5b571392bfb94cdf8ac1d101",
+    "bytes": 4206
+  },
+  {
+    "logical_path": "v3/data/raw/41009h2022.txt.gz",
+    "path": "04_数据/历史建模/raw/41009h2022.txt.gz",
+    "sha256": "a14da38ee4ca62758e10e468737f020b096ff2709b0187320896b851bc9bfb3a",
+    "bytes": 705806
+  },
+  {
+    "logical_path": "v3/data/raw/41009h2023.txt.gz",
+    "path": "04_数据/历史建模/raw/41009h2023.txt.gz",
+    "sha256": "55b3b8b3b5129d4b768095e4a49f2b025a995e4b3e27181d89f425e691a68909",
+    "bytes": 710800
+  },
+  {
+    "logical_path": "v3/data/raw/41009h2024.txt.gz",
+    "path": "04_数据/历史建模/raw/41009h2024.txt.gz",
+    "sha256": "89d5b3b2343fa0e0419f0ff4b493fdb01096df3dc8127e790970fa43afebeaf1",
+    "bytes": 780113
+  },
+  {
+    "logical_path": "v3/data/raw/41009h2025.txt.gz",
+    "path": "04_数据/历史建模/raw/41009h2025.txt.gz",
+    "sha256": "5242bf1d110b4a19b4034c309b752d0ee8467271f6f334ab55ec0f85f65986b3",
+    "bytes": 734097
+  },
+  {
+    "logical_path": "v3/data/raw/41010h2022.txt.gz",
+    "path": "04_数据/历史建模/raw/41010h2022.txt.gz",
+    "sha256": "18b8aa284a90abf04bc9242969ab3ce69635d141d42d880465371d48d5b5f0e6",
+    "bytes": 694093
+  },
+  {
+    "logical_path": "v3/data/raw/41010h2023.txt.gz",
+    "path": "04_数据/历史建模/raw/41010h2023.txt.gz",
+    "sha256": "8d1aedcdd151d9d0b8f3b489f486a577dce93655bf7cc57566f66d9036277420",
+    "bytes": 223836
+  },
+  {
+    "logical_path": "v3/data/raw/41010h2024.txt.gz",
+    "path": "04_数据/历史建模/raw/41010h2024.txt.gz",
+    "sha256": "f355c520062472fc06dac954852ebf5de3fab165409e1bf3ccab4a11494e6f96",
+    "bytes": 503737
+  },
+  {
+    "logical_path": "v3/data/raw/41010h2025.txt.gz",
+    "path": "04_数据/历史建模/raw/41010h2025.txt.gz",
+    "sha256": "fc9842b54b116605d664e0cd9fb4d4f6bc25656e42493d74f36266ec449aebaa",
+    "bytes": 437211
+  },
+  {
+    "logical_path": "v3/data/raw/41013h2022.txt.gz",
+    "path": "04_数据/历史建模/raw/41013h2022.txt.gz",
+    "sha256": "54bc3b2ea2ed6ff1ea7394efa7d6a6c39d10800b271c7482ea424d71082e775b",
+    "bytes": 741016
+  },
+  {
+    "logical_path": "v3/data/raw/41013h2023.txt.gz",
+    "path": "04_数据/历史建模/raw/41013h2023.txt.gz",
+    "sha256": "78bc6713b933f311b7ca4b68fa8b7c76595524fb1c78fbe93a727bd71a013f2b",
+    "bytes": 792329
+  },
+  {
+    "logical_path": "v3/data/raw/41013h2024.txt.gz",
+    "path": "04_数据/历史建模/raw/41013h2024.txt.gz",
+    "sha256": "238412d9552038efd093662be12edac4da2d0913a8cdba53c04f74eee6f1c814",
+    "bytes": 788321
+  },
+  {
+    "logical_path": "v3/data/raw/41013h2025.txt.gz",
+    "path": "04_数据/历史建模/raw/41013h2025.txt.gz",
+    "sha256": "d15bc6ee3309e8e27c687cd132a3685030a4b6d0fb3309092153fb31fe25e84d",
+    "bytes": 779934
+  },
+  {
+    "logical_path": "v3/data/raw/activestations.xml",
+    "path": "04_数据/历史建模/raw/activestations.xml",
+    "sha256": "55d1ac0d1204e03117dfa4b05ca0aa1a811bcab00fc6b2bcbec562490bf81b8b",
+    "bytes": 273696
+  },
+  {
+    "logical_path": "v3/data/stations.json",
+    "path": "04_数据/历史建模/stations.json",
+    "sha256": "f46afc250aeb788ce3447a1c66555ca155c622194ed6d0566479cf8f814d1f6f",
+    "bytes": 1724
+  },
+  {
+    "logical_path": "v3/evidence_experiment.py",
+    "path": "03_实验复现/代码/evidence.py",
+    "sha256": "80f800ad9dc9ab14d7434c9c93248b2c2764584a4b3eaea16a27fdec51ef3773",
+    "bytes": 8733
+  },
+  {
+    "logical_path": "v3/results/cache_collision_probes.csv",
+    "path": "05_实验结果/证据与缓存/cache_collision_probes.csv",
+    "sha256": "7ca6251f0da20cd8e0923c9499ec90fa63c6a8f487c2616c303c44ae07f2b8d9",
+    "bytes": 5897
+  },
+  {
+    "logical_path": "v3/results/cache_events.csv.gz",
+    "path": "05_实验结果/证据与缓存/cache_events.csv.gz",
+    "sha256": "0b8b39a7f257a1d6cd81f3e62838523c86606a8599c53be1fa660eba1c15455f",
+    "bytes": 644044
+  },
+  {
+    "logical_path": "v3/results/cache_metrics.csv",
+    "path": "05_实验结果/证据与缓存/cache_metrics.csv",
+    "sha256": "63aa31a8aaf1695a3f93710c73c87a691bd7de5e9da8a7a10c4860eaa39a7986",
+    "bytes": 9816
+  },
+  {
+    "logical_path": "v3/results/certificates.json",
+    "path": "05_实验结果/证据与缓存/certificates.json",
+    "sha256": "48a08eb52994680ae3cd16cd1621c6b359a60ebc41415ca66f3d3e47b34b954e",
+    "bytes": 131449
+  },
+  {
+    "logical_path": "v3/results/challenge_cases.json",
+    "path": "05_实验结果/证据与缓存/challenge_cases.json",
+    "sha256": "ca056ddeeb337c5b48985fb877d13cbc76031d7f22f053a0f0cb93a6d4487b85",
+    "bytes": 10401
+  },
+  {
+    "logical_path": "v3/results/data_audit.csv",
+    "path": "05_实验结果/证据与缓存/data_audit.csv",
+    "sha256": "6ac7fd4c9d37eac3e4c7a572b6deddf352f8265217f71ea5d87a18b5b8f8476c",
+    "bytes": 2207
+  },
+  {
+    "logical_path": "v3/results/environment.json",
+    "path": "05_实验结果/证据与缓存/environment.json",
+    "sha256": "ee47632687c023f9e9680b1679d4363cf6f30e5c552ace95a4d6f44ea9ad81fb",
+    "bytes": 320
+  },
+  {
+    "logical_path": "v3/results/evidence_bootstrap.csv",
+    "path": "05_实验结果/证据与缓存/evidence_bootstrap.csv",
+    "sha256": "3f58c1e57b40c7b788c1029934090e016abd9821faf73d5f557411eb3a517b28",
+    "bytes": 813
+  },
+  {
+    "logical_path": "v3/results/evidence_metrics.csv",
+    "path": "05_实验结果/证据与缓存/evidence_metrics.csv",
+    "sha256": "61026dca5ab8982e5d73f3d306863a1b944278e5964df18a71db832743fcfa5e",
+    "bytes": 1274
+  },
+  {
+    "logical_path": "v3/results/evidence_predictions.csv",
+    "path": "05_实验结果/证据与缓存/evidence_predictions.csv",
+    "sha256": "f48f6d3612672902be9a278a41ae9f89f2e6c3cc3f494cc91bc3c6e29bf82f9e",
+    "bytes": 329736
+  },
+  {
+    "logical_path": "v3/results/frozen.json",
+    "path": "05_实验结果/证据与缓存/frozen.json",
+    "sha256": "ebc65112073b983e89029279318c26ebbd3dec39cc6f97512cb719711e78c673",
+    "bytes": 1125
+  },
+  {
+    "logical_path": "v3/results/hourly.csv.gz",
+    "path": "05_实验结果/证据与缓存/hourly.csv.gz",
+    "sha256": "950c6ac7683f05d87e59ab1309643f736f116689ad00b468485ea1dcd3473168",
+    "bytes": 158320
+  },
+  {
+    "logical_path": "v3/results/hourly_lineage.csv.gz",
+    "path": "05_实验结果/证据与缓存/hourly_lineage.csv.gz",
+    "sha256": "c7b4caf5da0e36678567b39ac1e6acd7cac4a8e405ff00047145e0002b8542e7",
+    "bytes": 818586
+  },
+  {
+    "logical_path": "v3/results/metrics.csv",
+    "path": "05_实验结果/证据与缓存/metrics.csv",
+    "sha256": "f1328acbf07d649faf8ddf44f558c629f865740fcc99d46c6cf3aca3ffe13784",
+    "bytes": 34343
+  },
+  {
+    "logical_path": "v3/results/metrics_complete.csv",
+    "path": "05_实验结果/证据与缓存/metrics_complete.csv",
+    "sha256": "b63e22f7994b78935d3c46f21f97f6846291dae916d0914d266122fa45e3e9ec",
+    "bytes": 34516
+  },
+  {
+    "logical_path": "v3/results/models.json",
+    "path": "05_实验结果/证据与缓存/models.json",
+    "sha256": "52b87db09c535c68e99165cfe3cd90307531ba91e2221c5354100ae4ec6d8bca",
+    "bytes": 5805
+  },
+  {
+    "logical_path": "v3/results/paired_counts.json",
+    "path": "05_实验结果/证据与缓存/paired_counts.json",
+    "sha256": "2a9c99146c2d6c5fb295f20f114bc1368f372a0fff62409497be0cd850eda589",
+    "bytes": 237
+  },
+  {
+    "logical_path": "v3/results/relations.csv",
+    "path": "05_实验结果/证据与缓存/relations.csv",
+    "sha256": "56a667523d28a4241c7b750c50dd48ef38a3d5819c6c7fac94e7102a49625c93",
+    "bytes": 1025
+  },
+  {
+    "logical_path": "v3/results/station_difference.csv",
+    "path": "05_实验结果/证据与缓存/station_difference.csv",
+    "sha256": "38a0daadf5e149cf403413aa8f8055761dffba96876bc4304221f31ff747548f",
+    "bytes": 265101
+  },
+  {
+    "logical_path": "v3/results/verification.json",
+    "path": "05_实验结果/证据与缓存/verification.json",
+    "sha256": "641be7c5c062e666500ca32df551fdc17c48dcbe4d29890b72f3cda7d4eb962b",
+    "bytes": 663
+  },
+  {
+    "logical_path": "v4/optimize.py",
+    "path": "03_实验复现/代码/numeric_base.py",
+    "sha256": "2b44c32f37f75ecf7564cf1621c74e2ae40d06c9979ebd05e26e7b0b7258402e",
+    "bytes": 18764
+  },
+  {
+    "logical_path": "v4/results/audit.json",
+    "path": "05_实验结果/基础选路/audit.json",
+    "sha256": "13d46fc6d63ef819b40ac24e6c6137c3ee4b1adb18e851fe8b8e43069b7a8183",
+    "bytes": 663
+  },
+  {
+    "logical_path": "v4/results/dev_route_selection.csv",
+    "path": "05_实验结果/基础选路/dev_route_selection.csv",
+    "sha256": "edba2c67df904c276ab33d82f0297bd0083aee5cedddb33fc08c70d57ff67aac",
+    "bytes": 2300
+  },
+  {
+    "logical_path": "v4/results/frozen.json",
+    "path": "05_实验结果/基础选路/frozen.json",
+    "sha256": "c960f1c30d205395819a8bac037eaafc5fd6f84ec8d41a7fba79481c0e8ddb80",
+    "bytes": 955
+  },
+  {
+    "logical_path": "v4/results/metrics.csv",
+    "path": "05_实验结果/基础选路/metrics.csv",
+    "sha256": "cf0bc19b937e0031f84848104eaa93468215d7aef9d08e484998f10d2268e0f0",
+    "bytes": 27661
+  },
+  {
+    "logical_path": "v4/results/predictions.csv.gz",
+    "path": "05_实验结果/基础选路/predictions.csv.gz",
+    "sha256": "4720bf20d63803d2e9ad167366c75b8ae5405d25d244ab0960a97b63ef62f717",
+    "bytes": 2887459
+  },
+  {
+    "logical_path": "v4/results/regressions.json",
+    "path": "05_实验结果/基础选路/regressions.json",
+    "sha256": "fe5baa3990aa818ab0a5826b21d0d89784c3e65d2407912405ca49804594585b",
+    "bytes": 4595
+  },
+  {
+    "logical_path": "v4/results/routes.json",
+    "path": "05_实验结果/基础选路/routes.json",
+    "sha256": "5730cea562780cb9390128296c15397cb5faa11df5cf3dbefb0dba7cfc983c3d",
+    "bytes": 5124
+  },
+  {
+    "logical_path": "v5/PROTOCOL.md",
+    "path": "02_研究说明/数值与区间协议.md",
+    "sha256": "554b1f3eec8631988684472b3d33ff2366f650498e72d68d1b05e23aa4c05312",
+    "bytes": 3935
+  },
+  {
+    "logical_path": "v5/analyze_and_verify.py",
+    "path": "03_实验复现/代码/verify_recent.py",
+    "sha256": "1d3a2d770e503d5258fb11728aec3886c8ab383b776282907fb9ea63186675bc",
+    "bytes": 5437
+  },
+  {
+    "logical_path": "v5/data/gold.json",
+    "path": "04_数据/近期快照/gold.json",
+    "sha256": "14957399312c8602c650cff04142425d0a88c947fb86697270ea2a2487bbfe44",
+    "bytes": 274328
+  },
+  {
+    "logical_path": "v5/data/hourly.csv.gz",
+    "path": "04_数据/近期快照/hourly.csv.gz",
+    "sha256": "4a6711bbf1ae9b95a91e3bd6033d481f28ac7332f297d438094e3752e72bfb1e",
+    "bytes": 3921
+  },
+  {
+    "logical_path": "v5/data/hourly_lineage.csv.gz",
+    "path": "04_数据/近期快照/hourly_lineage.csv.gz",
+    "sha256": "8d6f3b1d7a4d1f17c3d53c2bc98b58f9c72d8d785caac9c07273ffe2966d71ba",
+    "bytes": 26033
+  },
+  {
+    "logical_path": "v5/data/public.json",
+    "path": "04_数据/近期快照/public.json",
+    "sha256": "256916b051fe634dbcccb333145ee7cddfc130f7617a9d5cc17be57f0c202c59",
+    "bytes": 957903
+  },
+  {
+    "logical_path": "v5/data/raw/41009.txt",
+    "path": "04_数据/近期快照/raw/41009.txt",
+    "sha256": "3555c4cf9e4f787da62637a28daefd510168771c90ecc4eedf76199c3127ab2b",
+    "bytes": 601036
+  },
+  {
+    "logical_path": "v5/data/raw/41010.txt",
+    "path": "04_数据/近期快照/raw/41010.txt",
+    "sha256": "d220de234ab6ebc3910b1e9413d9c74d49be2b6a3e5f8bc4d61949035e16cffd",
+    "bytes": 601412
+  },
+  {
+    "logical_path": "v5/data/raw/41013.txt",
+    "path": "04_数据/近期快照/raw/41013.txt",
+    "sha256": "bd1c21b5cdb6b38a3c376d13700e1ce90aaca64b1faef847320fcf49728c472c",
+    "bytes": 603198
+  },
+  {
+    "logical_path": "v5/data/source_manifest.json",
+    "path": "04_数据/近期快照/source_manifest.json",
+    "sha256": "1abbe8ddaf9118e6695859340d3d2bd1ff8bb801047399ab7b3312a2ba4e8ddd",
+    "bytes": 975
+  },
+  {
+    "logical_path": "v5/results/acquisition_bootstrap.csv",
+    "path": "05_实验结果/近期评估/acquisition_bootstrap.csv",
+    "sha256": "66dc5e495f50de2416631ed328cf0e29d6695035aa6ade2f8eaeb3cf0aa145d5",
+    "bytes": 532
+  },
+  {
+    "logical_path": "v5/results/acquisition_events.csv",
+    "path": "05_实验结果/近期评估/acquisition_events.csv",
+    "sha256": "22b8a3bc8c2a2548af9230e4297515cd6fc348b96fd2b3018ddf975ef8e74fe8",
+    "bytes": 122840
+  },
+  {
+    "logical_path": "v5/results/acquisition_metrics.csv",
+    "path": "05_实验结果/近期评估/acquisition_metrics.csv",
+    "sha256": "075c649c5d4c1b180bab00330580619c4f0f957defc65306ff1359166361a170",
+    "bytes": 735
+  },
+  {
+    "logical_path": "v5/results/analysis_summary.json",
+    "path": "05_实验结果/近期评估/analysis_summary.json",
+    "sha256": "188d58c6942c9309119be40e0881ad0246a035b28119887a35b36266fd76cb31",
+    "bytes": 879
+  },
+  {
+    "logical_path": "v5/results/audit.json",
+    "path": "05_实验结果/近期评估/audit.json",
+    "sha256": "2acff60d9ae0ff1b70c346bdd5334ed5dd8db41afce58c22a16298d2b940a137",
+    "bytes": 911
+  },
+  {
+    "logical_path": "v5/results/availability.json",
+    "path": "05_实验结果/近期评估/availability.json",
+    "sha256": "7c5d83038713c0afc5a5a026fbd782925caf01e4670b93a82eb735ea6e51c6dd",
+    "bytes": 550
+  },
+  {
+    "logical_path": "v5/results/bootstrap.csv",
+    "path": "05_实验结果/近期评估/bootstrap.csv",
+    "sha256": "1b5c31710837107affe6b807c3685f38deea50f7d43d8ee62f852dcc9eb329e2",
+    "bytes": 2674
+  },
+  {
+    "logical_path": "v5/results/cal_forecasts_without_gold.csv.gz",
+    "path": "05_实验结果/近期评估/cal_forecasts_without_gold.csv.gz",
+    "sha256": "dea412e037520b7bb0778997b967d29df9ae06524cf41c10e144089c7aa93632",
+    "bytes": 661216
+  },
+  {
+    "logical_path": "v5/results/cal_predictions.csv.gz",
+    "path": "05_实验结果/近期评估/cal_predictions.csv.gz",
+    "sha256": "7e09146947f41920cbfdd3e17c23dd3cdb4e69bb6092f3183259191497484bd0",
+    "bytes": 769563
+  },
+  {
+    "logical_path": "v5/results/calibration.json",
+    "path": "05_实验结果/近期评估/calibration.json",
+    "sha256": "7a66e4a1253637eaf12aaeb8a70e7c4c6579abd7a6b828086e5eb994ba2d21b9",
+    "bytes": 14790
+  },
+  {
+    "logical_path": "v5/results/claims.jsonl",
+    "path": "05_实验结果/近期评估/claims.jsonl",
+    "sha256": "cdbbfa472961a32269ec618591a74c0c4eb226eae75fb11ea1c38e20408d99dd",
+    "bytes": 541636
+  },
+  {
+    "logical_path": "v5/results/decisions.json",
+    "path": "05_实验结果/近期评估/decisions.json",
+    "sha256": "e31145eba9e402b88e75a1bf9b9fb392595dc81ee6104e3a187d7ce4d89728d1",
+    "bytes": 2902
+  },
+  {
+    "logical_path": "v5/results/delayed_verification.jsonl",
+    "path": "05_实验结果/近期评估/delayed_verification.jsonl",
+    "sha256": "44347b353ae765975aef6142235b1ded4d2d4db930697b10524a408b60354999",
+    "bytes": 387472
+  },
+  {
+    "logical_path": "v5/results/dev_selection.csv",
+    "path": "05_实验结果/近期评估/dev_selection.csv",
+    "sha256": "be95314624271630edc4fea323b19a992254f9b8aa66ef0ff5e17b1f16503198",
+    "bytes": 2129
+  },
+  {
+    "logical_path": "v5/results/forecasts_without_gold.csv.gz",
+    "path": "05_实验结果/近期评估/forecasts_without_gold.csv.gz",
+    "sha256": "92aea42e7522f79cf00fca16fe395c4a6105d4a2118e75f8cdef0d181990c5b6",
+    "bytes": 101832
+  },
+  {
+    "logical_path": "v5/results/frozen.json",
+    "path": "05_实验结果/近期评估/frozen.json",
+    "sha256": "e8e6be1405befd7ed1fe53a9430cf54dea16c7bc39969f1df3ea0a9dfc41bc5d",
+    "bytes": 849
+  },
+  {
+    "logical_path": "v5/results/independent_audit.json",
+    "path": "05_实验结果/近期评估/independent_audit.json",
+    "sha256": "d66e70b81a0f65abb314be2c71b9339207691593fefec2313b59018b59e61a61",
+    "bytes": 575
+  },
+  {
+    "logical_path": "v5/results/interval_ablation.csv",
+    "path": "05_实验结果/近期评估/interval_ablation.csv",
+    "sha256": "9fe2ded54e40d5e8d34511e7d7234e9538ea37732be683a598ef4719f822e7a9",
+    "bytes": 1274
+  },
+  {
+    "logical_path": "v5/results/metrics.csv",
+    "path": "05_实验结果/近期评估/metrics.csv",
+    "sha256": "5911bb5e07f24e5af6669b372685d96950939f880bf98335635530aa384ba827",
+    "bytes": 10903
+  },
+  {
+    "logical_path": "v5/results/missing_column_adapter.json",
+    "path": "05_实验结果/近期评估/missing_column_adapter.json",
+    "sha256": "cf7378825ef70877b6e3dc6eb32b687c4bb738173d6cc6e50fd178e3a95e20ca",
+    "bytes": 394
+  },
+  {
+    "logical_path": "v5/results/models.pkl",
+    "path": "05_实验结果/近期评估/models.pkl",
+    "sha256": "97f31f68e4bf6ecdd474ed34c767fddcb3e4e720afdf24a9b20c7fe8c262d484",
+    "bytes": 3011552
+  },
+  {
+    "logical_path": "v5/results/precision_preferences.csv",
+    "path": "05_实验结果/近期评估/precision_preferences.csv",
+    "sha256": "67f2c84a304dbb79f0697cbcaabab3b53bd4da16d9e52073a4e396481b579f64",
+    "bytes": 1497
+  },
+  {
+    "logical_path": "v5/results/predictions.csv.gz",
+    "path": "05_实验结果/近期评估/predictions.csv.gz",
+    "sha256": "7a117196544cbf1d93784ab23fae3d99ede49965e7fbb2b987774e8b7cc5203f",
+    "bytes": 208856
+  },
+  {
+    "logical_path": "v5/results/responses.jsonl",
+    "path": "05_实验结果/近期评估/responses.jsonl",
+    "sha256": "acc0eb8934a51e3a31bff4447329e46210e624ac82037e289bdf894b8bf59c4a",
+    "bytes": 522586
+  },
+  {
+    "logical_path": "v5/results/station_metrics.csv",
+    "path": "05_实验结果/近期评估/station_metrics.csv",
+    "sha256": "b90e72f159aa061bc06c44aab1863ebd7e4c5275a11686f12e41b20ff81d1f19",
+    "bytes": 838
+  },
+  {
+    "logical_path": "v5/results/summary.json",
+    "path": "05_实验结果/近期评估/summary.json",
+    "sha256": "7b8651209c64202bddbae1c7d1f895170c4f1fd228d65eab4e387fd9144099e3",
+    "bytes": 455
+  },
+  {
+    "logical_path": "v5/run_experiment.py",
+    "path": "03_实验复现/代码/numeric.py",
+    "sha256": "b2ee9bd8d0274d6987e101d2310e9d24c5f3f805b453bb181947cb5b931639d6",
+    "bytes": 24896
+  },
+  {
+    "logical_path": "v6/PROTOCOL.md",
+    "path": "02_研究说明/迁移核验协议.md",
+    "sha256": "7a50f71b15e859aab6f0843cabad17c2591f6cfcb5f2214a842902ef6a7475d4",
+    "bytes": 1696
+  },
+  {
+    "logical_path": "v6/data/gold.json",
+    "path": "04_数据/档案2021/gold.json",
+    "sha256": "aa4ac7ec9b692ab58f827e91abf1ea5d6ea5b750c0aa47c6687c883153ad05f7",
+    "bytes": 3192521
+  },
+  {
+    "logical_path": "v6/data/hourly.csv.gz",
+    "path": "04_数据/档案2021/hourly.csv.gz",
+    "sha256": "20685688668d77deefbfa517e9ed1b9d90416b4e57df0695d94ec7fe369c2835",
+    "bytes": 39704
+  },
+  {
+    "logical_path": "v6/data/hourly_lineage.csv.gz",
+    "path": "04_数据/档案2021/hourly_lineage.csv.gz",
+    "sha256": "c1b4edaee1c5c365bb260c81c74a4ad854ea17a56c7d482fc7461d93e5f83f5d",
+    "bytes": 259932
+  },
+  {
+    "logical_path": "v6/data/public.json",
+    "path": "04_数据/档案2021/public.json",
+    "sha256": "e043155f4942f7b993f204abc160efd4b40c1deee8a8378dfaa0abe7a8ff5362",
+    "bytes": 11443933
+  },
+  {
+    "logical_path": "v6/data/raw/41009h2021.txt.gz",
+    "path": "04_数据/档案2021/raw/41009h2021.txt.gz",
+    "sha256": "c5c1f2681a525e761ddf4324218eaf317032bf4a42a5d9814bb55f5d8c808afc",
+    "bytes": 652180
+  },
+  {
+    "logical_path": "v6/data/raw/41010h2021.txt.gz",
+    "path": "04_数据/档案2021/raw/41010h2021.txt.gz",
+    "sha256": "41ef6e69d829e6601f4859185880e65f3ada15927949e227b7dde0698f8355d5",
+    "bytes": 665723
+  },
+  {
+    "logical_path": "v6/data/raw/41013h2021.txt.gz",
+    "path": "04_数据/档案2021/raw/41013h2021.txt.gz",
+    "sha256": "5847d092872e2a2da59a154bac76e671eb8af4751fa1193d039e0a15a94fd54a",
+    "bytes": 692048
+  },
+  {
+    "logical_path": "v6/data/source_manifest.json",
+    "path": "04_数据/档案2021/source_manifest.json",
+    "sha256": "f9add20a4abfc189d600228b35be73b0fedf844b88ed4aaaca4fc503843b7757",
+    "bytes": 900
+  },
+  {
+    "logical_path": "v6/environment.json",
+    "path": "03_实验复现/environment.json",
+    "sha256": "3e0e1b225e7f58fe7a845dca31c0c056bf432af634c131e4f863d30a095a8898",
+    "bytes": 457
+  },
+  {
+    "logical_path": "v6/final_audit.py",
+    "path": "03_实验复现/代码/verify_archive.py",
+    "sha256": "5761a1883e0c27a3fa9e7786f457411ac5346ca5a40714a17d6acf22c8e70bb2",
+    "bytes": 3702
+  },
+  {
+    "logical_path": "v6/results/acquisition_bootstrap.csv",
+    "path": "05_实验结果/档案2021/acquisition_bootstrap.csv",
+    "sha256": "dee57210bdc9d34698d885af34d1fe47bfd2f7ac184e74ed018f3be7dfa00266",
+    "bytes": 537
+  },
+  {
+    "logical_path": "v6/results/acquisition_events.csv",
+    "path": "05_实验结果/档案2021/acquisition_events.csv",
+    "sha256": "d2435861a7ac9865a58bee5ea04ae9c165b109a51533f6a5b58aeef3d0984d77",
+    "bytes": 1430450
+  },
+  {
+    "logical_path": "v6/results/acquisition_metrics.csv",
+    "path": "05_实验结果/档案2021/acquisition_metrics.csv",
+    "sha256": "bed6f0a821b3827858bf271dcdd9992761a23497ed8269777cbfe530441b5d68",
+    "bytes": 744
+  },
+  {
+    "logical_path": "v6/results/audit.json",
+    "path": "05_实验结果/档案2021/audit.json",
+    "sha256": "c6477a7bb6ed3b775b7791461a986ccb7deda29bd02dcab747146b76f6cf13f8",
+    "bytes": 349
+  },
+  {
+    "logical_path": "v6/results/bootstrap.csv",
+    "path": "05_实验结果/档案2021/bootstrap.csv",
+    "sha256": "036ef78d5bfc4926fe83159a4821ecbaa4361cb087b7eb637b8793054131a7e0",
+    "bytes": 3812
+  },
+  {
+    "logical_path": "v6/results/claims.jsonl",
+    "path": "05_实验结果/档案2021/claims.jsonl",
+    "sha256": "d6cf5ad07f0dfe957f2935130fba6169da78554ab0caf7b49ce6917fa741f17e",
+    "bytes": 4535854
+  },
+  {
+    "logical_path": "v6/results/delayed_verification.jsonl",
+    "path": "05_实验结果/档案2021/delayed_verification.jsonl",
+    "sha256": "a97f38f9c3d0a48dc3a2b1da55f455ef95cbd3213a75e9888506c6737c7f38f8",
+    "bytes": 2814073
+  },
+  {
+    "logical_path": "v6/results/forecasts_without_gold.csv.gz",
+    "path": "05_实验结果/档案2021/forecasts_without_gold.csv.gz",
+    "sha256": "a78cfc745c15127e526d3eb5c1df3959eee9aff56dd60a92da2dbc8bb8b658a3",
+    "bytes": 1314081
+  },
+  {
+    "logical_path": "v6/results/frozen.json",
+    "path": "05_实验结果/档案2021/frozen.json",
+    "sha256": "925fc07424dcc5cbaad37e57411d2a43bf29de688c0fb6d3ce4a9bcd56353aa5",
+    "bytes": 470
+  },
+  {
+    "logical_path": "v6/results/full_reproduction_verification.json",
+    "path": "05_实验结果/档案2021/full_reproduction_verification.json",
+    "sha256": "689a5c6938f0100313230810b6468352934b9b1a7ecfca6745dd5ae3d971739b",
+    "bytes": 606
+  },
+  {
+    "logical_path": "v6/results/independent_audit.json",
+    "path": "05_实验结果/档案2021/independent_audit.json",
+    "sha256": "17d3436d9b7f3ef824a799052efd19218ed3e33ca9bc1790a3ed44a7c3aef799",
+    "bytes": 498
+  },
+  {
+    "logical_path": "v6/results/metrics.csv",
+    "path": "05_实验结果/档案2021/metrics.csv",
+    "sha256": "d7180bdbd9f60fe1959130dc8ceed77be3695a369c330c656efed145bacb3624",
+    "bytes": 13381
+  },
+  {
+    "logical_path": "v6/results/predictions.csv.gz",
+    "path": "05_实验结果/档案2021/predictions.csv.gz",
+    "sha256": "6a3dc94d5d17358db1ffbce243c417889858c31b46710390415f8d7d956f2c06",
+    "bytes": 4071133
+  },
+  {
+    "logical_path": "v6/results/recent_retrospective_metrics.csv",
+    "path": "05_实验结果/档案2021/recent_retrospective_metrics.csv",
+    "sha256": "06469cafff7d89ad9475d31d5d3ce8628a73988e9856a4baf82cd30dcc365eea",
+    "bytes": 11891
+  },
+  {
+    "logical_path": "v6/results/recent_retrospective_predictions.csv.gz",
+    "path": "05_实验结果/档案2021/recent_retrospective_predictions.csv.gz",
+    "sha256": "ffe132cb0bebc486b5bd78ae02ecb43f13d44cd44a5305a9b3b807936a7ba79c",
+    "bytes": 295423
+  },
+  {
+    "logical_path": "v6/results/restored_direct_claims.jsonl",
+    "path": "05_实验结果/档案2021/restored_direct_claims.jsonl",
+    "sha256": "6d75004c094162af42c840c9d0a818e1a3cc03b5adcc66acb2910d38848c064c",
+    "bytes": 5462017
+  },
+  {
+    "logical_path": "v6/results/summary.json",
+    "path": "05_实验结果/档案2021/summary.json",
+    "sha256": "b483f991352ff5e545ecea83e009921f39a1c63e65c18370ceb6b0f6d85caef2",
+    "bytes": 321
+  },
+  {
+    "logical_path": "v7/PROTOCOL.md",
+    "path": "02_研究说明/组合补证协议.md",
+    "sha256": "6e92a7648bb3ba1ec62c1228af9ae4c8efd966cbd15ba0822af0a49f11e7c898",
+    "bytes": 2259
+  },
+  {
+    "logical_path": "v7/analyze_workflow.py",
+    "path": "03_实验复现/代码/workflow_analysis.py",
+    "sha256": "67f59861b79424284e5ab0afcd351e93b47ab958ee33fd375e65a5d7b5aa5fab",
+    "bytes": 2144
+  },
+  {
+    "logical_path": "v7/data/gold.json",
+    "path": "04_数据/档案2020/gold.json",
+    "sha256": "f76219a511eaaebe209f091e8c657dc97bde487cba59205f0e0e68d37faf0df9",
+    "bytes": 351672
+  },
+  {
+    "logical_path": "v7/data/hourly_lineage.csv.gz",
+    "path": "04_数据/档案2020/hourly_lineage.csv.gz",
+    "sha256": "9d3eed04ff38bcbd88e4d4f9d3611cd0d0be816d2b74639106e7c1b195d9d992",
+    "bytes": 196673
+  },
+  {
+    "logical_path": "v7/data/public.json",
+    "path": "04_数据/档案2020/public.json",
+    "sha256": "60c77b96cbc12a8bb260fe52c817e62449ad928e88eb1b3b3f60dba474232ac1",
+    "bytes": 1257166
+  },
+  {
+    "logical_path": "v7/data/raw/41009h2020.txt.gz",
+    "path": "04_数据/档案2020/raw/41009h2020.txt.gz",
+    "sha256": "9ddd8bbdf3584620e4a0f001120c5cc0fd4276d15ec21612ca97b38ad3698e4e",
+    "bytes": 710762
+  },
+  {
+    "logical_path": "v7/data/raw/41010h2020.txt.gz",
+    "path": "04_数据/档案2020/raw/41010h2020.txt.gz",
+    "sha256": "73f1e27e126f1926304359f70d341b30820d99bd96bf6c7abdc7b400375775ed",
+    "bytes": 670646
+  },
+  {
+    "logical_path": "v7/data/raw/41013h2020.txt.gz",
+    "path": "04_数据/档案2020/raw/41013h2020.txt.gz",
+    "sha256": "39d797634785b976c0222a7c90e5d665e2bcc0d17b4064a06ba5dfb2e8493733",
+    "bytes": 699022
+  },
+  {
+    "logical_path": "v7/data/source_manifest.json",
+    "path": "04_数据/档案2020/source_manifest.json",
+    "sha256": "d97dc746ccfb0a56de2c2b99a087f8b11746f8620c512e93d4c00d04ca2ca84e",
+    "bytes": 900
+  },
+  {
+    "logical_path": "v7/independent_verify.py",
+    "path": "03_实验复现/代码/workflow_verify.py",
+    "sha256": "536688d0c397749d37fb0f508ed5e756d3e9e1b71d649b3ffcc6ab620844fd5f",
+    "bytes": 1983
+  },
+  {
+    "logical_path": "v7/replay_execution.py",
+    "path": "03_实验复现/代码/workflow_execute.py",
+    "sha256": "0462e13d125940a7c5e8412157077e8de13d5ae3abedb852a8a2ec0394448b71",
+    "bytes": 3482
+  },
+  {
+    "logical_path": "v7/reproduce_frozen.py",
+    "path": "03_实验复现/代码/workflow_replay.py",
+    "sha256": "0fa592444bb6d4b1cad6f09514dad74caaee24c445e8cd6d886ce57f42d89bef",
+    "bytes": 1449
+  },
+  {
+    "logical_path": "v7/results/audit.json",
+    "path": "05_实验结果/组合2020/audit.json",
+    "sha256": "fdb1038931fad3479e1de8074dcee50fca1455dd0992363f9b38cb1611b13c2c",
+    "bytes": 631
+  },
+  {
+    "logical_path": "v7/results/calibration.json",
+    "path": "05_实验结果/组合2020/calibration.json",
+    "sha256": "a4f291929d52ccf0b597e7f1d77de982678a62cae75ed7f57d41a2f03615d3a1",
+    "bytes": 8467
+  },
+  {
+    "logical_path": "v7/results/calibration_errors.csv.gz",
+    "path": "05_实验结果/组合2020/calibration_errors.csv.gz",
+    "sha256": "dc8d89ade371e7e7e0cfa7b90a90023dc20e0b7dceb542913d095156c22e29c1",
+    "bytes": 115734
+  },
+  {
+    "logical_path": "v7/results/claims.json",
+    "path": "05_实验结果/组合2020/claims.json",
+    "sha256": "be7979f7a8063a319ef20774130e7cbcd20e77a94690c7da8e7c2d24e6b4540e",
+    "bytes": 230329
+  },
+  {
+    "logical_path": "v7/results/cost_sensitivity.csv",
+    "path": "05_实验结果/组合2020/cost_sensitivity.csv",
+    "sha256": "07a625c5c19541c4b20a9b874b66de598952f108029493c8441fce389011948a",
+    "bytes": 3040
+  },
+  {
+    "logical_path": "v7/results/executed_acquisition_reads.csv",
+    "path": "05_实验结果/组合2020/executed_acquisition_reads.csv",
+    "sha256": "5364c082c27eed132fbef3ad330ba29b36147a7be35c19ce548048ed0bef67e1",
+    "bytes": 74193
+  },
+  {
+    "logical_path": "v7/results/execution_audit.json",
+    "path": "05_实验结果/组合2020/execution_audit.json",
+    "sha256": "2101458a8a05550c171a0bb89a66fe9a0126c1a0da31e03d6f264f5c86737416",
+    "bytes": 328
+  },
+  {
+    "logical_path": "v7/results/forecasts_without_gold.csv.gz",
+    "path": "05_实验结果/组合2020/forecasts_without_gold.csv.gz",
+    "sha256": "d93bf889aee917b54655783d734a3e9a4beda7ed79ff5639c4d0e9b20d729f38",
+    "bytes": 167812
+  },
+  {
+    "logical_path": "v7/results/frozen.json",
+    "path": "05_实验结果/组合2020/frozen.json",
+    "sha256": "939c6e33916dbc4fa9887e0c990a2f0e59ef603ad9fb56396b0919d4a19e1cc3",
+    "bytes": 459
+  },
+  {
+    "logical_path": "v7/results/independent_audit.json",
+    "path": "05_实验结果/组合2020/independent_audit.json",
+    "sha256": "82230592c11f805ed94604a74dfd237e8a70ae064eceb315f1034aac5566fce8",
+    "bytes": 225
+  },
+  {
+    "logical_path": "v7/results/paired_workflow.csv",
+    "path": "05_实验结果/组合2020/paired_workflow.csv",
+    "sha256": "a7249334e272fe853846a099dd59ea5490999e4e57285d36a12e9138f80aebde",
+    "bytes": 1767
+  },
+  {
+    "logical_path": "v7/results/point_metrics.csv",
+    "path": "05_实验结果/组合2020/point_metrics.csv",
+    "sha256": "d5eb3c6107e217b9d9c602fdab0e9213461d3eac47eed95a5a6944f3dc5b8ea4",
+    "bytes": 583
+  },
+  {
+    "logical_path": "v7/results/point_predictions.csv.gz",
+    "path": "05_实验结果/组合2020/point_predictions.csv.gz",
+    "sha256": "09fc6744b3f90adbe2c0803de85ad5d2f8e07f29068bacf061d0b9d47ac69304",
+    "bytes": 204615
+  },
+  {
+    "logical_path": "v7/results/restored_certificates.json",
+    "path": "05_实验结果/组合2020/restored_certificates.json",
+    "sha256": "590978a96d9c49a7e34acb68c88576b220e5e7bd316ab7455dc9d16d952c06cb",
+    "bytes": 250758
+  },
+  {
+    "logical_path": "v7/results/workflow_events.csv.gz",
+    "path": "05_实验结果/组合2020/workflow_events.csv.gz",
+    "sha256": "71ecbf87d66f42000705f63bdf2c76d8c06703185da99e27803f893182cfd639",
+    "bytes": 201033
+  },
+  {
+    "logical_path": "v7/results/workflow_metrics.csv",
+    "path": "05_实验结果/组合2020/workflow_metrics.csv",
+    "sha256": "beeabe083ad72eb252e0eb099f0ddf8e6ff7a25a00f7e154b65eb5c247bd33dd",
+    "bytes": 1981
+  },
+  {
+    "logical_path": "v7/run_workflow.py",
+    "path": "03_实验复现/代码/workflow.py",
+    "sha256": "0a8b1621ab564f72f5e9abd9a468479043a4e9422455727cb396a03ad0348631",
+    "bytes": 10018
+  },
+  {
+    "logical_path": "verify_thesis05.py",
+    "path": "03_实验复现/代码/verify_components.py",
+    "sha256": "c9e458474e56792a67648493e0e72a85d968c676cc6905ec66fbf052de0646fa",
+    "bytes": 2786
+  },
+  {
+    "logical_path": "verify_thesis06.py",
+    "path": "03_实验复现/代码/verify_all.py",
+    "sha256": "885403036019aed5633b602890bbc1308d32821d478075b2b499c148093569d5",
+    "bytes": 1289
+  },
+  {
+    "logical_path": "v6/validate.py",
+    "path": "03_实验复现/代码/archive.py",
+    "sha256": "e90e306e6aecdd86e417df2f38cc0347478cbd84be73fba2cc1442eb82fd8b5f",
+    "bytes": 7854
+  },
+  {
+    "logical_path": "report_work/figures_current.py",
+    "path": "03_实验复现/代码/figures.py",
+    "sha256": "7937d09c96920f066b6cac19e26ae96626a080323c72f671832b26dcba8d1f8d",
+    "bytes": 16409
+  }
+]
