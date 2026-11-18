@@ -1,0 +1,315 @@
+{
+  "github_count": 3,
+  "citation_count": 49,
+  "all_citations_match_targets": true,
+  "github": [
+    {
+      "url": "https://github.com/CHUIXUE-Dream/-",
+      "text": "https://github.com/CHUIXUE-Dream/-"
+    },
+    {
+      "url": "https://github.com/CHUIXUE-Dream/-",
+      "text": "https://github.com/CHUIXUE-Dream/-"
+    },
+    {
+      "url": "https://github.com/CHUIXUE-Dream/-",
+      "text": "https://github.com/CHUIXUE-Dream/-"
+    }
+  ],
+  "citations": [
+    {
+      "target": "reference_01",
+      "citation": "[1]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_02",
+      "citation": "[2]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_03",
+      "citation": "[3]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_04",
+      "citation": "[4]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_05",
+      "citation": "[5]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_06",
+      "citation": "[6]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_07",
+      "citation": "[7]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_08",
+      "citation": "[8]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_09",
+      "citation": "[9]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_10",
+      "citation": "[10]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_11",
+      "citation": "[11]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_12",
+      "citation": "[12]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_13",
+      "citation": "[13]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_14",
+      "citation": "[14]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_15",
+      "citation": "[15]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_16",
+      "citation": "[16]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_17",
+      "citation": "[17]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_18",
+      "citation": "[18]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_19",
+      "citation": "[19]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_20",
+      "citation": "[20]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_21",
+      "citation": "[21]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_22",
+      "citation": "[22]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_23",
+      "citation": "[23]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_24",
+      "citation": "[24]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_25",
+      "citation": "[25]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_03",
+      "citation": "[3]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_05",
+      "citation": "[5]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_07",
+      "citation": "[7]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_20",
+      "citation": "[20]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_21",
+      "citation": "[21]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_03",
+      "citation": "[3]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_05",
+      "citation": "[5]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_07",
+      "citation": "[7]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_14",
+      "citation": "[14]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_08",
+      "citation": "[8]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_10",
+      "citation": "[10]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_11",
+      "citation": "[11]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_12",
+      "citation": "[12]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_13",
+      "citation": "[13]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_20",
+      "citation": "[20]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_21",
+      "citation": "[21]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_25",
+      "citation": "[25]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_22",
+      "citation": "[22]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_26",
+      "citation": "[26]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_27",
+      "citation": "[27]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_28",
+      "citation": "[28]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_29",
+      "citation": "[29]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_30",
+      "citation": "[30]",
+      "correct_entry": true,
+      "exists": true
+    },
+    {
+      "target": "reference_31",
+      "citation": "[31]",
+      "correct_entry": true,
+      "exists": true
+    }
+  ]
+}

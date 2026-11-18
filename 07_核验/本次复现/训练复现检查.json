@@ -1,0 +1,22 @@
+{
+  "v5": {
+    "rows": 7200,
+    "max_absolute_differences": {
+      "prediction": 3.552713678800501e-15,
+      "lower_raw": 3.552713678800501e-15,
+      "upper_raw": 3.552713678800501e-15
+    },
+    "passed": true
+  },
+  "v6": {
+    "rows": 82980,
+    "max_absolute_differences": {
+      "prediction": 3.552713678800501e-15,
+      "lower_raw": 3.552713678800501e-15,
+      "upper_raw": 3.552713678800501e-15
+    },
+    "passed": true
+  },
+  "calibration_numeric_identical": true,
+  "fresh_output_dir": "C:\\Users\\admin\\AppData\\Local\\Temp\\ocean_course_replay_o0pco77h\\v6\\reproduction_runs\\20261117_235923"
+}

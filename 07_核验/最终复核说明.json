@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-18T00:19:11.844919",
+  "report_pages": 44,
+  "visual_review": "All 44 rendered pages inspected; citation superscripts, appended iteration table, appendix header tab stops and split figure note rechecked after corrections. Internal previews retained outside the submission folder. Final citation formatting restored from the author source; page 10 rechecked and other page images unchanged.",
+  "report_sha256": "9423b75bf64ab330040d83de3b7949deb15dc91775d737380683329d35a72885",
+  "reference_links": 49,
+  "github_links": 3,
+  "internal_navigation_links_checked": 70,
+  "original_scientific_media_unchanged": true,
+  "science_summary_checks": "13/13",
+  "full_execution_steps": 11,
+  "full_refit_rows": 90180,
+  "refit_max_difference": 3.552713678800501e-15,
+  "figures": 15,
+  "data_figure_csvs": 12,
+  "original_data_files": 21,
+  "notes": "Remote publishing and messages after the chat export cutoff are outside this local delivery."
+}

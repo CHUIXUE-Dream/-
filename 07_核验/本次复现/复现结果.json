@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "input_files_verified": 155,
+  "steps": [
+    {
+      "module": "v5/analyze_and_verify.py",
+      "exit_code": 0
+    },
+    {
+      "module": "v6/final_audit.py",
+      "exit_code": 0
+    },
+    {
+      "module": "report_work/analyze05.py",
+      "exit_code": 0
+    },
+    {
+      "module": "verify_thesis05.py",
+      "exit_code": 0
+    },
+    {
+      "module": "v7/reproduce_frozen.py",
+      "exit_code": 0
+    },
+    {
+      "module": "v7/analyze_workflow.py",
+      "exit_code": 0
+    },
+    {
+      "module": "v7/independent_verify.py",
+      "exit_code": 0
+    },
+    {
+      "module": "v7/replay_execution.py",
+      "exit_code": 0
+    },
+    {
+      "module": "reproduce_from_training04.py",
+      "exit_code": 0
+    },
+    {
+      "module": "verify_thesis06.py",
+      "exit_code": 0
+    },
+    {
+      "module": "report_work/figures_current.py",
+      "exit_code": 0
+    }
+  ],
+  "scope": "Recomputed saved E1/E4 records, E2/E3 statistics and frozen E5, including actual acquisition execution. Original byte-frozen scientific modules are unchanged; only directory mapping is new.",
+  "full_refit": true,
+  "figures": true,
+  "temporary_workspace": "C:\\Users\\admin\\AppData\\Local\\Temp\\ocean_course_replay_o0pco77h"
+}

@@ -1,0 +1,206 @@
+{
+  "request_dates": [
+    "2026-10-02 00:00:00",
+    "2026-11-12 00:00:00"
+  ],
+  "normal_requests": 80,
+  "total_requests": 720,
+  "candidate_methods_selected": {
+    "v4": 27,
+    "tree5": 1
+  },
+  "sources": [
+    {
+      "station": "41009",
+      "valid_hourly": 0,
+      "first_observation": null,
+      "last_observation": null,
+      "normal_requests": 0
+    },
+    {
+      "station": "41010",
+      "valid_hourly": 1079,
+      "first_observation": "2026-09-29 00:50:00+00:00",
+      "last_observation": "2026-11-13 11:10:00+00:00",
+      "normal_requests": 40
+    },
+    {
+      "station": "41013",
+      "valid_hourly": 1078,
+      "first_observation": "2026-09-29 00:40:00+00:00",
+      "last_observation": "2026-11-13 11:10:00+00:00",
+      "normal_requests": 40
+    }
+  ],
+  "audit_checks_passed": 20,
+  "audit_checks_total": 20
+}
+Precision preference mask4:
+scenario method  halfwidth  n  n_delivered  delivery_rate  within05_per_request     PICP
+   mask4     v4        0.5 80           40           0.50                0.4875 0.900000
+   mask4     v5        0.5 80           52           0.65                0.6375 0.884615
+ budget reference  delta_RMSE     lower     upper  block_days  n
+      1    hashed   -0.060634 -0.104892 -0.017624           7 80
+      1  earliest   -0.106850 -0.158636 -0.056711           7 80
+      2    hashed   -0.034463 -0.050781 -0.012064           7 80
+      2  earliest   -0.066371 -0.086950 -0.045668           7 80
+      3    hashed   -0.046174 -0.058953 -0.023888           7 80
+      3  earliest   -0.058612 -0.066552 -0.042697           7 80
+
+{"public_forecasts_reproduce_1e12": true, "every_hidden_reference_resolves_to_source": true, "original_claim_log_unchanged": true, "restored_claims_one_to_one": true, "frozen_validation_code_unchanged": true, "nine_scenarios_retained": true, "all_methods_same922_cases": true}
+ budget reference  delta_RMSE     lower     upper  block_days   n
+      1    hashed   -0.077706 -0.119215 -0.035918           7 922
+      1  earliest   -0.222484 -0.302038 -0.151692           7 922
+      2    hashed   -0.072349 -0.106528 -0.038550           7 922
+      2  earliest   -0.145450 -0.179500 -0.107297           7 922
+      3    hashed   -0.055677 -0.064936 -0.047126           7 922
+      3  earliest   -0.094858 -0.109419 -0.080315           7 922
+
+cohort scenario statistic interval_policy   n     RMSE      MAE     PICP     MPIW  interval_score
+  2021    mask4      mean     conditional 922 0.486621 0.274912 0.895879 1.220960        2.201598
+  2021    mask4      mean           fixed 922 0.486621 0.274912 0.903471 1.251663        2.239427
+  2026    mask4      mean     conditional  80 0.226042 0.154006 0.912500 0.784651        1.035004
+  2026    mask4      mean           fixed  80 0.226042 0.154006 0.950000 1.007634        1.181683
+cohort statistic      method reference   n  block_days  delta_RMSE     lower     upper
+  2021      mean          v4     local 922           7   -0.009173 -0.014326 -0.004944
+  2021      mean          v5        v4 922           7    0.000208 -0.000272  0.000772
+  2021      mean v5_no_guard        v4 922           7    0.000000  0.000000  0.000000
+  2021       max          v4     local 922           7   -0.043528 -0.053935 -0.034413
+  2021       max          v5        v4 922           7   -0.003638 -0.019077  0.015158
+  2021       max v5_no_guard        v4 922           7   -0.014240 -0.023029 -0.001530
+  2026      mean          v4     local  80           7   -0.003666 -0.008109  0.000859
+  2026      mean          v5        v4  80           7    0.000000  0.000000  0.000000
+  2026      mean v5_no_guard        v4  80           7    0.000000  0.000000  0.000000
+  2026       max          v4     local  80           7   -0.025210 -0.028627 -0.019576
+  2026       max          v5        v4  80           7   -0.001554 -0.010492  0.012860
+  2026       max v5_no_guard        v4  80           7   -0.001554 -0.010492  0.012860
+cohort scenario statistic metric  best_value      best_methods   n
+  2021    mask4       max   RMSE    0.558629       v5_no_guard 922
+  2021    mask4       max    MAE    0.305098 local|persistence 922
+  2021    mask4      mean   RMSE    0.486621    v4|v5_no_guard 922
+  2021    mask4      mean    MAE    0.274912    v4|v5_no_guard 922
+  2026    mask4       max   RMSE    0.238519    v5|v5_no_guard  80
+  2026    mask4       max    MAE    0.161480                v4  80
+  2026    mask4      mean   RMSE    0.226042 v4|v5|v5_no_guard  80
+  2026    mask4      mean    MAE    0.152500 local|persistence  80
+
+{
+  "checks": {
+    "E1_all_splits_from_target_records": true,
+    "E4_all120_runs_from120000_events": true,
+    "E4_Kp_lowest_safe_P50": true,
+    "E4_K0_lowest_safe_P95": true,
+    "v5_audit.json": true,
+    "v5_independent_audit.json": true,
+    "v6_audit.json": true,
+    "v6_independent_audit.json": true,
+    "E2_E3_frozen_output_analysis": true,
+    "independent_refit90180_rows": true
+  },
+  "passed": 10,
+  "total": 10,
+  "scope": "Recomputed saved E1/E4 event summaries, audited E2/E3 frozen outputs, and retained independent training-reproduction evidence; no new test selection or timing measurement."
+}
+
+  policy  tau   n  delivered  delivery_rate  qualified_rate  avg_records  direct  selected_PICP  delivered_RMSE
+  B_only 0.10 919          0       0.000000        0.000000     0.000000       0            NaN             NaN
+  B_only 0.25 919          0       0.000000        0.000000     0.000000       0            NaN             NaN
+  B_only 0.50 919        204       0.221980        0.214363     0.000000       0       0.877451        0.200307
+E_adapt2 0.10 919          0       0.000000        0.000000     2.000000       0            NaN             NaN
+E_adapt2 0.25 919        204       0.221980        0.216540     2.000000       0       0.921569        0.099200
+E_adapt2 0.50 919        919       1.000000        0.954298     1.556039       0       0.920566        0.231194
+H_adapt2 0.10 919          0       0.000000        0.000000     2.000000       0            NaN             NaN
+H_adapt2 0.25 919        562       0.611534        0.559304     1.778020       0       0.900356        0.168712
+H_adapt2 0.50 919        919       1.000000        0.941240     0.778020       0       0.903156        0.264884
+  L_only 0.10 919          0       0.000000        0.000000     0.000000       0            NaN             NaN
+  L_only 0.25 919          0       0.000000        0.000000     0.000000       0            NaN             NaN
+  L_only 0.50 919        204       0.221980        0.213275     0.000000       0       0.892157        0.218121
+T_adapt2 0.10 919        204       0.221980        0.208923     2.000000       0       0.941176        0.051728
+T_adapt2 0.25 919        919       1.000000        0.944505     1.778020       0       0.910773        0.120953
+T_adapt2 0.50 919        919       1.000000        0.967356     0.778020       0       0.915125        0.234797
+T_adapt4 0.10 919        919       1.000000        0.961915     2.778020       0       0.923830        0.041763
+T_adapt4 0.25 919        919       1.000000        0.944505     1.778020       0       0.910773        0.120953
+T_adapt4 0.50 919        919       1.000000        0.967356     0.778020       0       0.915125        0.234797
+T_fixed2 0.10 919        204       0.221980        0.208923     2.000000       0       0.941176        0.051728
+T_fixed2 0.25 919        919       1.000000        0.959739     2.000000       0       0.917301        0.106197
+T_fixed2 0.50 919        919       1.000000        0.997824     2.000000       0       0.917301        0.106197
+    all4 0.10 919        919       1.000000        1.000000     4.000000     919            NaN        0.000000
+    all4 0.25 919        919       1.000000        1.000000     4.000000     919            NaN        0.000000
+    all4 0.50 919        919       1.000000        1.000000     4.000000     919            NaN        0.000000
+{"code_frozen": true, "calibration_frozen": true, "retrieved_after_freeze": true, "same_denominators": true, "source_rows_resolve": true, "safe_cache_no_mismatch": true, "all4_exact": true, "claims_preserved": true, "tau_gate": true}
+Frozen E5 replay passed; source manifest original bytes preserved.
+
+ tau   method reference         metric  difference     lower     upper   n  block_days  repeats
+0.25 T_adapt2  H_adapt2 qualified_rate    0.385201  0.362764  0.409945 919           7     2000
+0.25 T_adapt2  H_adapt2    avg_records    0.000000  0.000000  0.000000 919           7     2000
+0.25 T_adapt2  T_fixed2 qualified_rate   -0.015234 -0.025856 -0.006681 919           7     2000
+0.25 T_adapt2  T_fixed2    avg_records   -0.221980 -0.258265 -0.178889 919           7     2000
+0.25 T_adapt4      all4 qualified_rate   -0.055495 -0.080819 -0.035713 919           7     2000
+0.25 T_adapt4      all4    avg_records   -2.221980 -2.261008 -2.179837 919           7     2000
+statistic      method   n     RMSE      MAE
+      max       local 919 0.508470 0.266376
+      max persistence 919 0.508470 0.266376
+      max          v4 919 0.458756 0.265878
+      max          v5 919 0.465373 0.276184
+      max v5_no_guard 919 0.461118 0.274012
+     mean       local 919 0.410698 0.268634
+     mean persistence 919 0.410698 0.268634
+     mean          v4 919 0.396183 0.252060
+     mean          v5 919 0.396020 0.252057
+     mean v5_no_guard 919 0.396183 0.252060
+
+{"checks": {"unrevealed_future_values_do_not_change_current_prediction": true, "all24_metric_cells_recompute": true, "all_frozen_checks": true}, "prefix_probes": 93, "passed": 3, "total": 3}
+
+{"passed": true, "mismatches": 0, "executions": 919, "result_hits": 919, "path_hits": 916, "requests": 1838, "acquisition_reads": 1634, "scope": "Post-test consistency replay of frozen decision rules with actual acquisition reads on cache misses; not a new holdout or online model latency benchmark."}
+
+historical prepared 2022 4364
+historical prepared 2023 2928
+historical prepared 2024 3896
+FROZEN before any realtime data access
+{
+  "v5": {
+    "rows": 7200,
+    "max_absolute_differences": {
+      "prediction": 3.552713678800501e-15,
+      "lower_raw": 3.552713678800501e-15,
+      "upper_raw": 3.552713678800501e-15
+    },
+    "passed": true
+  },
+  "v6": {
+    "rows": 82980,
+    "max_absolute_differences": {
+      "prediction": 3.552713678800501e-15,
+      "lower_raw": 3.552713678800501e-15,
+      "upper_raw": 3.552713678800501e-15
+    },
+    "passed": true
+  },
+  "calibration_numeric_identical": true,
+  "fresh_output_dir": "C:\\Users\\admin\\AppData\\Local\\Temp\\ocean_course_replay_o0pco77h\\v6\\reproduction_runs\\20261117_235923"
+}
+
+{
+  "checks": {
+    "E1_all_splits_from_target_records": true,
+    "E4_all120_runs_from120000_events": true,
+    "E4_Kp_lowest_safe_P50": true,
+    "E4_K0_lowest_safe_P95": true,
+    "v5_audit.json": true,
+    "v5_independent_audit.json": true,
+    "v6_audit.json": true,
+    "v6_independent_audit.json": true,
+    "E2_E3_frozen_output_analysis": true,
+    "independent_refit90180_rows": true,
+    "E5_frozen": true,
+    "E5_independent": true,
+    "E5_execution": true
+  },
+  "passed": 13,
+  "total": 13,
+  "scope": "E1-E4 saved-event recomputation and retained independent refit; E5 byte-frozen script replay, 24 metric cells, 93 prefix probes and actual cache-miss acquisition execution."
+}
+
+Exported 12 figures
+Figures: 15
+

@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "code_frozen": true,
+    "calibration_frozen": true,
+    "retrieved_after_freeze": true,
+    "same_denominators": true,
+    "source_rows_resolve": true,
+    "safe_cache_no_mismatch": true,
+    "all4_exact": true,
+    "claims_preserved": true,
+    "tau_gate": true
+  },
+  "passed": 9,
+  "total": 9,
+  "requests": 919,
+  "by_station": {
+    "41009": 357,
+    "41010": 204,
+    "41013": 358
+  },
+  "source_resolutions": 3676,
+  "result_hits": 919,
+  "path_hits": 916,
+  "replayed_requests": 1838,
+  "cache_class_sha256": "3c236af5df58d450920e24117c7336e2fe38d754abba79c6f126d4d7bdd3b2c1"
+}

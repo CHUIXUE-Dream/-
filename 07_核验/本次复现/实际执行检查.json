@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "mismatches": 0,
+  "executions": 919,
+  "result_hits": 919,
+  "path_hits": 916,
+  "requests": 1838,
+  "acquisition_reads": 1634,
+  "scope": "Post-test consistency replay of frozen decision rules with actual acquisition reads on cache misses; not a new holdout or online model latency benchmark."
+}

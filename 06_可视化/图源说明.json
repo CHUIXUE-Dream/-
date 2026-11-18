@@ -1,0 +1,175 @@
+[
+  {
+    "name": "figure_01",
+    "original_figure_key": "roadmap",
+    "kind": "method diagram",
+    "sources": [],
+    "report_caption": "图1.1 四项创新改进与实验验证的对应关系"
+  },
+  {
+    "name": "figure_02",
+    "original_figure_key": "workflow05",
+    "kind": "method diagram",
+    "sources": [],
+    "report_caption": "图3.1 从已知结论到主动补证与追加核验的统一流程"
+  },
+  {
+    "name": "figure_03",
+    "original_figure_key": "data_quality",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/证据与缓存/data_audit.csv",
+        "sha256": "6ac7fd4c9d37eac3e4c7a572b6deddf352f8265217f71ea5d87a18b5b8f8476c"
+      }
+    ],
+    "report_caption": "图4.1 历史建模与复评资料的有效小时覆盖"
+  },
+  {
+    "name": "figure_04",
+    "original_figure_key": "e1_results",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/证据与缓存/evidence_metrics.csv",
+        "sha256": "61026dca5ab8982e5d73f3d306863a1b944278e5964df18a71db832743fcfa5e"
+      }
+    ],
+    "report_caption": "图5.1 E1证据核验与逐目标交付的作用"
+  },
+  {
+    "name": "figure_05",
+    "original_figure_key": "e2_baselines",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/基础选路/metrics.csv",
+        "sha256": "cf0bc19b937e0031f84848104eaa93468215d7aef9d08e484998f10d2268e0f0"
+      }
+    ],
+    "report_caption": "图5.2 E2同信息权限的强基线比较"
+  },
+  {
+    "name": "figure_06",
+    "original_figure_key": "e2_paired",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/同点统计/paired_intervals.csv",
+        "sha256": "adcde86b309131c48ab63edc4cc9bdd99c3be29a9bb5deda473a9395749924b1"
+      }
+    ],
+    "report_caption": "图5.3 E2基础选路与增强候选的配对增益"
+  },
+  {
+    "name": "figure_07",
+    "original_figure_key": "e2_stress",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/同点统计/point_metrics.csv",
+        "sha256": "b501acb73dd70eef2531b6712679f1e84f728249071d8233f3b2e18cf334aaff"
+      }
+    ],
+    "report_caption": "图5.4 E2候选在正常与压力条件下的点误差"
+  },
+  {
+    "name": "figure_08",
+    "original_figure_key": "conditional_coverage",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/数值诊断/station_quarter.csv",
+        "sha256": "752429f9eaab61861f96fde45435c87b0ef59ac7e1075f177e4417979016be84"
+      }
+    ],
+    "report_caption": "图5.5 E2发现的站点季度区间差异"
+  },
+  {
+    "name": "figure_09",
+    "original_figure_key": "interval_matched",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/同点统计/interval_metrics.csv",
+        "sha256": "48c4aeb531053259bc9d7ac8e28ffa7f9c25ffdeea83127de7aa29f1731b4372"
+      }
+    ],
+    "report_caption": "图5.6 E3固定点预测后的区间效率对比"
+  },
+  {
+    "name": "figure_10",
+    "original_figure_key": "acquisition05",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/档案2021/acquisition_metrics.csv",
+        "sha256": "bed6f0a821b3827858bf271dcdd9992761a23497ed8269777cbfe530441b5d68"
+      },
+      {
+        "path": "05_实验结果/近期评估/acquisition_metrics.csv",
+        "sha256": "075c649c5d4c1b180bab00330580619c4f0f957defc65306ff1359166361a170"
+      }
+    ],
+    "report_caption": "图5.7 E3三种补证策略的预算误差曲线"
+  },
+  {
+    "name": "figure_11",
+    "original_figure_key": "acquisition_paired",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/档案2021/acquisition_bootstrap.csv",
+        "sha256": "dee57210bdc9d34698d885af34d1fe47bfd2f7ac184e74ed018f3be7dfa00266"
+      },
+      {
+        "path": "05_实验结果/近期评估/acquisition_bootstrap.csv",
+        "sha256": "66dc5e495f50de2416631ed328cf0e29d6695035aa6ade2f8eaeb3cf0aa145d5"
+      }
+    ],
+    "report_caption": "图5.8 E3两条预算的配对误差改进"
+  },
+  {
+    "name": "figure_12",
+    "original_figure_key": "cache05",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/证据与缓存/cache_metrics.csv",
+        "sha256": "63aa31a8aaf1695a3f93710c73c87a691bd7de5e9da8a7a10c4860eaa39a7986"
+      }
+    ],
+    "report_caption": "图5.9 E4时延与错误复用的联合比较"
+  },
+  {
+    "name": "figure_13",
+    "original_figure_key": "thinking06",
+    "kind": "conceptual diagram",
+    "sources": [],
+    "report_caption": "图3.2 从资料与个人追问到实验取舍的推导关系"
+  },
+  {
+    "name": "figure_14",
+    "original_figure_key": "workflow_tradeoff06",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/组合2020/workflow_metrics.csv",
+        "sha256": "beeabe083ad72eb252e0eb099f0ddf8e6ff7a25a00f7e154b65eb5c247bd33dd"
+      }
+    ],
+    "report_caption": "图5.10 E5精度成功交付与补证数量的联合比较"
+  },
+  {
+    "name": "figure_15",
+    "original_figure_key": "workflow_sensitivity06",
+    "kind": "data visualization",
+    "sources": [
+      {
+        "path": "05_实验结果/组合2020/workflow_metrics.csv",
+        "sha256": "beeabe083ad72eb252e0eb099f0ddf8e6ff7a25a00f7e154b65eb5c247bd33dd"
+      }
+    ],
+    "report_caption": "图5.11 E5精度要求改变后的交付与成本"
+  }
+]
