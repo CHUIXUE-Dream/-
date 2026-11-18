@@ -1,0 +1,6002 @@
+[
+  {
+    "case_id": "541113d48dda56d01571",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "787/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9602abed58364fe93012",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "787/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "81ffcf4ceb52f47378d7",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "787/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "79c519f7762434020f76",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "837/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ed805b33daeba69fa97d",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "8369999999999999/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "3b1abf5eb4d05f20e169",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "837/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "c4ae6c07bd29cbaee445",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "281/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "da2099f43a44ea8e1fde",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "281/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1a8c54bbe3abfe9d91fd",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "281/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9a105310c725fea13059",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "793/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "11aa10b21a2ff9d6a45e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "7930000000000001/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b5ebbedc492c72c89597",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "793/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "c2ee89f84ab37a247f0c",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "319/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "7bee8e0d0406046803e6",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "319/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9527397a23c79b968abe",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "319/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ebc139b0c39e79b315a5",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "145/8",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "2a6be79fbb7d33eea14b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "145/8",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "fffbfce13e73dc6aa3fd",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "145/8",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "958af00dfaf2ddf14da9",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "139/8",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "22fa2128c7c0a4e620ab",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "139/8",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a2c0ab9e98f516cc0142",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "139/8",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "0abfa9a324d81d9fd138",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "33/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d998f8e72dae58e206af",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "33/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "7bf9f1f524e8829cafbd",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "33/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "eed6405d544f5893b93b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "729/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "2620ab1352b462b1805a",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "729/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "8f2733b3d35192be7677",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "729/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "3535cb247b1e63c7500c",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "161/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "81c5395f0077355b52c5",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "6439999999999999/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "de9d8c2f1c124a698803",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "161/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "886d1ddb3a1998b56da5",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "389/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b86f221662e1bab7ef23",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "7780000000000001/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "bbe82eb0f44a85f0c7b7",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "389/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e33408967c82111c0f01",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "361/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "bec4bfacc97a1021b183",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "361/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "c1e30189242d8dd221f8",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "361/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e5c76ec2be310dbcb4a5",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "631/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "64dd9797cc07bcd18a3f",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "6310000000000001/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "8b140adb64b3c9e5355b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "631/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "471bf7f5a048f4439974",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "363/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "89f6772db8c568a9d2fb",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "363/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "f749fa0474d27c35df89",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "363/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "33d4ab16de11348e5000",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "781/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "268742f579700680796e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "781/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "7df9678f20bdb78c0bae",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "781/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "09dd59b0c8f635bad1dd",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "743/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "7ebecf76d9c7ec56ec4f",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "7430000000000001/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "7d0ea9764e5e0be4e2ac",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "743/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "5a1670ae7281fc8c71b2",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "693/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e86c8c7be9dbdb7bc3d9",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "693/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a9f7bc95c2e9520bed84",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "693/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e83a709e97efaae21abc",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "799/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "18d8abd326626b4fb4b2",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "7989999999999999/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e3e449e7537c53ce3d6d",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "799/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "2c3bca66b584c053e632",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "183/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "3c2ab1f6c6104302bda3",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "183/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "5e8c2ed68b103b89da0e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "183/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "5182a0b01d6b77bef946",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "737/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ed3ba7d4dd09f73e9321",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "737/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "585cd4375cf4815cd91b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "737/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "52423410e419efb14928",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "123/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "744e0b9f6b309efdae6b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "123/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "cc020fb7dc1dd6b9124e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "123/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "c34a908aed5d5580c93f",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "106/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "f14dfcccc6ef0616e505",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "106/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "44654d9a2d4309eb047b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "106/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "06f621cedc9d8d7a02ad",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "119/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ea5cea29ed351a336768",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "119/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d6249be152ad7da76914",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "119/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e18b2c09f6450d19805b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "237/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d775278d12c7fa8e6685",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "237/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "3b8867ea9ca62bf80f30",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "237/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "3cc38126168b8b076bde",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "231/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e39c9e79a9a4c6e88d28",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "231/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e13d8adafc2f37a291bb",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "231/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "993ac0730472491542e5",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b68b3739ca547958d22a",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "17e40c5e3091dcbdefcb",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e824e51aa3de22fed6ec",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "35/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b405d8c0474e2f7d6cd0",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "35/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e83db1404833bb793b80",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "35/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "5921ed80bc27307094cb",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "123/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9b955ec80584e1edd53e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "123/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "c04f38a17620d454bf82",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "123/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "19b552637293a0a9843c",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "243/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "8c3aa69e90ebf58cc0ff",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "243/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d4d24e4d5c8fc31b28fa",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "243/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9e1e4b266d443133cfe8",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "49/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "92b2e45544169bada2bd",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "49/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "37b1fa75188314329ad9",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "49/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "95a2916c130ccca4e23f",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "223/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "572712cabcab86bda354",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "223/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "08b3f123c8a26dce3b57",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "223/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "bfc427e96110d8f055f5",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "109/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "171ff94aeec5d374de59",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "109/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "cd1a7f80ebcfe14c5dca",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "109/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "cb02aebad543ec4918f8",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "221/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "aa8f509786bcb7cdd918",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "221/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1b02a587a5f8eb624f48",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "221/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "84aed9f9178e002b5487",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "84/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "26b26f22beeb96d5511e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "84/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "c01fdc41511867b01fbe",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "84/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ac71514fb38f63a7646d",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "219/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d2c76ca6218e46e51203",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "219/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "78cee809e14ff41c7c2b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "219/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "5f995797934283001c32",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "122/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a7b5dc81d20c0a34f6c4",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "122/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "70acef3a6400b5b624b4",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "122/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d4c1b24b6cc571f6a7af",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "113/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "09f7b3378c45c8c2a82d",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "113/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "647454bb226b805ec0e9",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "113/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b28756b983745bc84481",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "223/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a7b60b00d61e7b475f28",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "223/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "04cc775e9e349256a1ad",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "223/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "c903d91d7a4e198b779a",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "229/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "7ae3e764c4a9e9ad3b7d",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "229/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "fbc3d8e688f3b344938a",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "229/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "6699ed0eb97fd102f1b8",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "233/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "c05a6b3a72e58e0e690d",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "max",
+      "exact_fraction": "233/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "f39d8210b16db7de2167",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "max",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "233/10",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "6db256b9fe0370ebb5cf",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "669/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "6db256b9fe0370ebb5cf",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "749/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1c997b37ed0052343abe",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "669/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1c997b37ed0052343abe",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "749/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "395a4110e642ec79bda3",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "669/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "70c7a36a9997133f0994",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "669/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a2195a50b423d256d616",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "669/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e7846516a59ac4b529b2",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "669/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e7846516a59ac4b529b2",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "749/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "f386565e016c7fd67525",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "659/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "f386565e016c7fd67525",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "739/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "57a91333a9bf90455f51",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "659/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "57a91333a9bf90455f51",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "739/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "03abb1fe218abf613f5e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "659/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "284338777cc113383796",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "659/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9810bffe6d808fb1b041",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "659/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "dd7425ffb41a24327958",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "659/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "dd7425ffb41a24327958",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "739/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "249605d0da31b11bbfd8",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "343/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "249605d0da31b11bbfd8",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "383/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e7c9a223dbb5575e09a4",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "343/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e7c9a223dbb5575e09a4",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "383/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "68860fb269c0d6e52da6",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "343/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "7322e08482f793c2ba39",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "343/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "8f8dff439332bd7d5779",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "343/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b9aa891d9672fea8c278",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "343/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b9aa891d9672fea8c278",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "383/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "19731a321b78ab331ddc",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "753/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "19731a321b78ab331ddc",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "833/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e34ee9ae55644a4e84c0",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "753/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e34ee9ae55644a4e84c0",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "8330000000000001/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "f7db950926c4a1e3e551",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "753/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a47ad8ca88621093b570",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "753/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b7bdcab5eeedd66416a8",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "753/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "4deda966e5a8813d6d02",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "753/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "4deda966e5a8813d6d02",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "833/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "4b98d48d9c7a8f669f60",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "97/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "4b98d48d9c7a8f669f60",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "107/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "7f15d5803681debb2b4e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "97/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "7f15d5803681debb2b4e",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "107/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "fa58a8659346df807f13",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "97/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "554164b24434f09721bb",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "97/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "afddac67076033a957ff",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "97/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ad554828059a48b4f11b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "97/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ad554828059a48b4f11b",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "107/5",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e71825b31d2331d2d8d7",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "359/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e71825b31d2331d2d8d7",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "399/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1e4ce44a1d113c2b0f5e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "359/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1e4ce44a1d113c2b0f5e",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "399/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a268247d1f5e1cd07d1f",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "359/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "3c8fac1e28e464c443cb",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "359/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "67f6f35b3c4414ce065f",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "359/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "cd518a2d062491befa44",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "359/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "cd518a2d062491befa44",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "399/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "cd1934c5fb7cdfbe7ff2",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "761/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "cd1934c5fb7cdfbe7ff2",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "841/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ec6699afe7139c3f1b23",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "761/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ec6699afe7139c3f1b23",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "841/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b13a0c6e6c57a6ce7621",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "761/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "13bab08eb5e5618fe9af",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "761/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "96c9d0738ff3af20e092",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "761/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b2983fda653a8c88c4b1",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "761/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b2983fda653a8c88c4b1",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "841/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ba5a4b5419dd38fee28c",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "569/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ba5a4b5419dd38fee28c",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "649/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9012b7411730e7cbd022",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "569/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9012b7411730e7cbd022",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "649/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a57be0922fa63f6adf6b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "569/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "beaffae33ed30b77ea78",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "569/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "cbec78018747c7aeaf28",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "569/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1e5c1b3640337e429e66",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "569/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1e5c1b3640337e429e66",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "649/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "26345331487bc328c224",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "83/4",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "26345331487bc328c224",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "91/4",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "46844724e09cb3499e94",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "83/4",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "46844724e09cb3499e94",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "91/4",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "3e80b60320ed3c25c3ed",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "83/4",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "865fdc86d3ab4dadebc0",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "83/4",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "30ef89ddedcf9fccac18",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "83/4",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1acf4015233253298c14",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "83/4",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1acf4015233253298c14",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "91/4",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d4b834be438454c0189e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "37/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d4b834be438454c0189e",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "41/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "c2fc6e167f2223d0c1ab",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "37/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "c2fc6e167f2223d0c1ab",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "41/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "aca5d7e1b5e087469326",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "37/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "03c6d52642dbfa5a5044",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "37/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "2224a77dc305bcb60d6b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "37/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "605734795ea7d2477528",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "37/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "605734795ea7d2477528",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "41/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "0cf17cae6ad25e316cb0",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "623/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "0cf17cae6ad25e316cb0",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "703/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "27dcedfdfee9a84fe135",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "15575000000000001/1000000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "27dcedfdfee9a84fe135",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "7030000000000001/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "0977bf82b55cbca662cb",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "623/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "7e8447f4379f52b5279e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "623/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "301626ea3563e156ac05",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "623/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b3070b7f7e3a48ebb6df",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "623/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b3070b7f7e3a48ebb6df",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "703/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9672c7d86e94c485596d",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "767/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9672c7d86e94c485596d",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "847/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "0783d6a89ec066551815",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "767/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "0783d6a89ec066551815",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "847/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "87da53250d78a026f1ef",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "767/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e576828f0c7934234f12",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "767/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "8a040419b458a19dee9e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "767/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "423258734bcc7abd0aba",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "767/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "423258734bcc7abd0aba",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "847/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d0ea18e99588ee90295a",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "363/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d0ea18e99588ee90295a",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "403/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9fdacd9a574bc8c75fc1",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "7260000000000001/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "9fdacd9a574bc8c75fc1",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "8060000000000001/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "719dd95861cca5f3da18",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "363/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b01606722ad80242075c",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "363/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "66be8ee903b861f19de8",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "363/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "22c8d60007940d7079f7",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "363/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "22c8d60007940d7079f7",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "403/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "4388a9fac11b22a8cbf9",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "421/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "4388a9fac11b22a8cbf9",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "461/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "3187e6ffec089ccf5b57",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "421/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "3187e6ffec089ccf5b57",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "461/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e134dfa341abf37db4b3",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "421/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "59c75b9e561d8c781a6a",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "421/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "eedc3afb5e1229338d03",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "421/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "991f7d69800fe308234d",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "421/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "991f7d69800fe308234d",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "461/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e155a7c1349a096ac46e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "843/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e155a7c1349a096ac46e",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "923/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "cd9f68251fc7dfd7561b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "843/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "cd9f68251fc7dfd7561b",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "9230000000000001/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "8deda9974bd5cbce155e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "843/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "3e8eb5bbaf1e89ca6181",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "843/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d67a4cfc4d623bc1628e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "843/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e525d2240d25057b1e31",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "843/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e525d2240d25057b1e31",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "923/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "2005c26ce1f48f56c1e2",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "43/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "2005c26ce1f48f56c1e2",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "47/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "276cbdfde262aa1b0481",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "43/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "276cbdfde262aa1b0481",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "47/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "f212d6017e5057eb2e85",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "43/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "ba1d5a13bb1b8c25b8f1",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "43/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "6eca94fb73e635c7a9c5",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "43/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d3bfd15f2fe53b90e51f",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "43/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "d3bfd15f2fe53b90e51f",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "47/2",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1644c7dfbd942939807a",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "609/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1644c7dfbd942939807a",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "689/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "62c24e7e65f7dceccdb1",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "609/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "62c24e7e65f7dceccdb1",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "6889999999999999/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "fbd6cb0bebd24fdb64af",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "609/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "499d3037eeffa8661a8b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "609/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "745e53389e70cf411acf",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "609/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "456d26b63f44e0a0cfe3",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "609/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "456d26b63f44e0a0cfe3",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "689/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "91faff395b2e8de2ff09",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "677/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "91faff395b2e8de2ff09",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "757/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a476b0b86ef577a8902b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "6769999999999999/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a476b0b86ef577a8902b",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "7569999999999999/400000000000000",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "b635e0993cfcdc5b2ee0",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "677/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e52aa1a3bd92b266a2eb",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "677/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "78dce62e8c4df767cfca",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "677/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "f8c74b1e262b4cc16b3e",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "677/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "f8c74b1e262b4cc16b3e",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "757/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "257427aa7f791311097c",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "743/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "257427aa7f791311097c",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "823/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "20d7b32c887f3b685106",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "743/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "20d7b32c887f3b685106",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "823/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "2f741250a97a61a5e16b",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "743/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "a0a4bb546d7cfd82acb5",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "743/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "fbd7ebd9820059baf21a",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "743/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "42ee22d7510bdefee98f",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "743/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "42ee22d7510bdefee98f",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "823/40",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e7f6a30378bdfccf8f24",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "381/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "e7f6a30378bdfccf8f24",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "421/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "63e456054f7c127b897c",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sA"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "381/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "63e456054f7c127b897c",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "sB"
+      ],
+      "formula": "sum/n",
+      "exact_fraction": "421/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "671d7264aecd1ba8339a",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "381/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "1ed00bc9b17efe1ab8eb",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "381/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "90b3a2de29258706ddd9",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "381/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "2333d940eea2cabaf42f",
+    "target": 0,
+    "certificate": {
+      "scope": "A",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rA"
+      ],
+      "formula": "raw",
+      "exact_fraction": "381/20",
+      "unit": "degC"
+    }
+  },
+  {
+    "case_id": "2333d940eea2cabaf42f",
+    "target": 1,
+    "certificate": {
+      "scope": "B",
+      "times": [
+        "2024-06-01T00:00:00Z",
+        "2024-06-01T06:00:00Z",
+        "2024-06-01T12:00:00Z",
+        "2024-06-01T18:00:00Z"
+      ],
+      "statistic": "mean",
+      "evidence_ids": [
+        "rB"
+      ],
+      "formula": "raw",
+      "exact_fraction": "421/20",
+      "unit": "degC"
+    }
+  }
+]

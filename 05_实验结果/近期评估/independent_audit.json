@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "recomputed_public_forecasts_match_1e12": true,
+    "all_reference_source_lines_resolve": true,
+    "frozen_artifacts_unchanged": true,
+    "claims_unchanged_after_independent_recompute": true,
+    "full_90_metric_cells": true,
+    "same80_requests_every_method_scenario": true,
+    "no41009_reference_fabrication": true
+  },
+  "passed": 7,
+  "total": 7,
+  "source_line_resolutions": 2880,
+  "max_absolute_prediction_difference": 3.552713678800501e-15,
+  "claims_sha256": "cdbbfa472961a32269ec618591a74c0c4eb226eae75fb11ea1c38e20408d99dd"
+}

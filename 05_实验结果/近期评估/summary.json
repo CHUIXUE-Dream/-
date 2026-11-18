@@ -1,0 +1,15 @@
+{
+  "dates": [
+    "2026-09-29 00:00:00+00:00",
+    "2026-11-14 00:00:00+00:00"
+  ],
+  "normal_requests": 80,
+  "total_requests": 720,
+  "normal_by_station": {
+    "41010": 40,
+    "41013": 40
+  },
+  "freeze_created_utc": "2026-11-13T11:46:33.823971+00:00",
+  "new_snapshot": "first downloaded after freeze; single pass, no post-result tuning",
+  "source_manifest_sha256": "1abbe8ddaf9118e6695859340d3d2bd1ff8bb801047399ab7b3312a2ba4e8ddd"
+}

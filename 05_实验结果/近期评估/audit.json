@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "code_matches_frozen": true,
+    "models_match_frozen": true,
+    "decisions_match_frozen": true,
+    "calibration_matches_frozen": true,
+    "download_after_freeze": true,
+    "all_scenarios_reported": true,
+    "cal_support_at_least100": true,
+    "public_hidden_values_absent": true,
+    "anchor_strictly_before_target": true,
+    "claims_preserved_after_audit": true,
+    "verification_one_to_one": true,
+    "namespace_probes_distinct": true,
+    "acquisition_full_restore_exact": true
+  },
+  "passed": 13,
+  "total": 13,
+  "claim_count": 1440,
+  "namespace_probes": [
+    "738803d8bbedad1290774ca1c2cbd3c5e25c76c49af235e56c39c6231e36b96d",
+    "4c3436a81f2f2a86dd88316002de527e4c341af479ea64384d90f66e20481249",
+    "e69db422157d5caacb19b1c3553cf396fd926f591ed6e1b0ff00a7d31614773d",
+    "f9f7b56e4eaa243ff1063cbae5e2558f6c682af16e54ea850d179b9e8764c702"
+  ]
+}

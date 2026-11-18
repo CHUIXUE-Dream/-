@@ -1,0 +1,18 @@
+[
+  {
+    "scenario": "mask1",
+    "n_common": 165
+  },
+  {
+    "scenario": "mask2",
+    "n_common": 165
+  },
+  {
+    "scenario": "mask4",
+    "n_common": 163
+  },
+  {
+    "scenario": "block72",
+    "n_common": 163
+  }
+]

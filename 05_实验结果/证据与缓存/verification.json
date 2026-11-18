@@ -1,0 +1,20 @@
+{
+  "12_official_file_hashes": true,
+  "frozen_code_hash": true,
+  "frozen_model_hash": true,
+  "frozen_manifest_hash": true,
+  "all_method_scenario_statistic_cells": true,
+  "public_inputs_no_gold_fields": true,
+  "past_and_donor_cutoff_valid": true,
+  "hypothesis_numeric_null": true,
+  "calibration_support_gate": true,
+  "independent_calibration_recomputed": true,
+  "120000_cache_events": true,
+  "cache_equal_capacity_bytes": true,
+  "safe_cache_no_wrong_serving": true,
+  "40_collision_tests": true,
+  "12_challenge_cases": true,
+  "12_figures_with_csv_hashes": true,
+  "36_exported_figure_files": true,
+  "60_claims_and_reveals": true
+}

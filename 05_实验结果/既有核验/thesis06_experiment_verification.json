@@ -1,0 +1,20 @@
+{
+  "checks": {
+    "E1_all_splits_from_target_records": true,
+    "E4_all120_runs_from120000_events": true,
+    "E4_Kp_lowest_safe_P50": true,
+    "E4_K0_lowest_safe_P95": true,
+    "v5_audit.json": true,
+    "v5_independent_audit.json": true,
+    "v6_audit.json": true,
+    "v6_independent_audit.json": true,
+    "E2_E3_frozen_output_analysis": true,
+    "independent_refit90180_rows": true,
+    "E5_frozen": true,
+    "E5_independent": true,
+    "E5_execution": true
+  },
+  "passed": 13,
+  "total": 13,
+  "scope": "E1-E4 saved-event recomputation and retained independent refit; E5 byte-frozen script replay, 24 metric cells, 93 prefix probes and actual cache-miss acquisition execution."
+}

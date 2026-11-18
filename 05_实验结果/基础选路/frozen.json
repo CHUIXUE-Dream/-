@@ -1,0 +1,18 @@
+{
+  "version": "v4",
+  "code_sha256": "2b44c32f37f75ecf7564cf1621c74e2ae40d06c9979ebd05e26e7b0b7258402e",
+  "parent_frozen_sha256": "ebc65112073b983e89029279318c26ebbd3dec39cc6f97512cb719711e78c673",
+  "source_manifest_sha256": "dcdad735d20f12c8b027e9b5e04273d8e7c847ff5b571392bfb94cdf8ac1d101",
+  "regressions_sha256": "fe5baa3990aa818ab0a5826b21d0d89784c3e65d2407912405ca49804594585b",
+  "routes_sha256": "5730cea562780cb9390128296c15397cb5faa11df5cf3dbefb0dba7cfc983c3d",
+  "train": 2022,
+  "dev": 2023,
+  "cal": 2024,
+  "evaluation": 2025,
+  "evaluation_status": "2025 previously inspected in v3; retrospective development-informed reevaluation, NOT new blind test",
+  "min_cal": 100,
+  "selection_margin": 0.02,
+  "seed": 20261113,
+  "interval_pooling": "station x method x statistic x mask_count x anchor_age_bucket; mask positions pooled; donor shifts never used to calibrate",
+  "created_utc": "2026-11-13T05:09:06.123942+00:00"
+}

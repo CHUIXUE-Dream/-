@@ -1,0 +1,18 @@
+{
+  "checks": {
+    "frozen_versions_unchanged": true,
+    "same_points_between_interval_policies": true,
+    "all_interval_cells": true,
+    "same_denominators": true,
+    "no_refit": true
+  },
+  "passed": 5,
+  "total": 5,
+  "scope": "Post hoc publication reanalysis of frozen outputs, not a new held-out experiment. Fixed and conditional policies use identical v4 points.",
+  "sources": {
+    "v6\\results\\predictions.csv.gz": "6a3dc94d5d17358db1ffbce243c417889858c31b46710390415f8d7d956f2c06",
+    "v5\\results\\predictions.csv.gz": "7a117196544cbf1d93784ab23fae3d99ede49965e7fbb2b987774e8b7cc5203f",
+    "v5\\results\\calibration.json": "7a66e4a1253637eaf12aaeb8a70e7c4c6579abd7a6b828086e5eb994ba2d21b9"
+  },
+  "retained_point_method": "v4 development-selected main route; individual metric minima remain separately reported"
+}

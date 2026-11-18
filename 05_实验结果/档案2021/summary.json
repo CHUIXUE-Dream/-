@@ -1,0 +1,14 @@
+{
+  "normal_requests": 922,
+  "total_requests": 8298,
+  "by_station": {
+    "41009": 350,
+    "41010": 222,
+    "41013": 350
+  },
+  "request_dates": [
+    "2021-01-04",
+    "2021-12-30"
+  ],
+  "interpretation": "newly acquired held-out earlier year; backward temporal transfer, not prospective forecasting"
+}

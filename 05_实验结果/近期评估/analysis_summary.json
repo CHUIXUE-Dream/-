@@ -1,0 +1,37 @@
+{
+  "request_dates": [
+    "2026-10-02 00:00:00",
+    "2026-11-12 00:00:00"
+  ],
+  "normal_requests": 80,
+  "total_requests": 720,
+  "candidate_methods_selected": {
+    "v4": 27,
+    "tree5": 1
+  },
+  "sources": [
+    {
+      "station": "41009",
+      "valid_hourly": 0,
+      "first_observation": null,
+      "last_observation": null,
+      "normal_requests": 0
+    },
+    {
+      "station": "41010",
+      "valid_hourly": 1079,
+      "first_observation": "2026-09-29 00:50:00+00:00",
+      "last_observation": "2026-11-13 11:10:00+00:00",
+      "normal_requests": 40
+    },
+    {
+      "station": "41013",
+      "valid_hourly": 1078,
+      "first_observation": "2026-09-29 00:40:00+00:00",
+      "last_observation": "2026-11-13 11:10:00+00:00",
+      "normal_requests": 40
+    }
+  ],
+  "audit_checks_passed": 20,
+  "audit_checks_total": 20
+}

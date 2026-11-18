@@ -1,0 +1,19 @@
+{
+  "frozen_code_matches": true,
+  "frozen_route_matches": true,
+  "frozen_regression_matches": true,
+  "v3_original_freeze_preserved": true,
+  "all_9x9x2_cells_present": true,
+  "all_3348_public_cases": true,
+  "public_gold_fields_separate": true,
+  "normal_only_calibration_independently_recomputed": true,
+  "perturbations_not_in_cal": true,
+  "explicit_nonblind_reevaluation": true,
+  "all_requests_have_responses": true,
+  "estimate_never_named_direct": true,
+  "unsupported_numeric_null": true,
+  "main_and_unchanged_methods_reproduce_1e12": true,
+  "8_figures_24_exports": true,
+  "figure_data_hashes_valid": true,
+  "pngs_300dpi": true
+}

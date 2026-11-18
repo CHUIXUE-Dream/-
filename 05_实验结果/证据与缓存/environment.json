@@ -1,0 +1,8 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "pandas": "3.0.1",
+  "numpy": "2.5.4",
+  "requirements_sha256": "34002f1ce8d665703f43a7ddef4152edb5fe492a5875ca1e70c113b8a3138f8b",
+  "created_utc": "2026-11-12T16:57:03.519709+00:00"
+}

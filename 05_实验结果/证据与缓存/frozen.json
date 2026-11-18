@@ -1,0 +1,41 @@
+{
+  "protocol": "v3.0",
+  "train": 2022,
+  "dev": 2023,
+  "cal": 2024,
+  "test": 2025,
+  "seed": 20261113,
+  "min_cal": 100,
+  "alpha": 0.1,
+  "methods": [
+    "P0_seasonal",
+    "P1_persistence",
+    "P2_distance",
+    "P3_single",
+    "P4_ridge",
+    "M_est",
+    "A_rawcorr",
+    "A_corrweight",
+    "B1_budget",
+    "B2_budget",
+    "A_no_gate"
+  ],
+  "scenarios": [
+    "mask1",
+    "mask2",
+    "mask4",
+    "block24",
+    "block72",
+    "donor_missing",
+    "bias1",
+    "bias2",
+    "relation_shift"
+  ],
+  "model_sha256": "52b87db09c535c68e99165cfe3cd90307531ba91e2221c5354100ae4ec6d8bca",
+  "code_sha256": "17b596dd002ef8df38e0a74733312068e1c043c084029ddfe330f0b2a1ea30da",
+  "data_manifest_sha256": "dcdad735d20f12c8b027e9b5e04273d8e7c847ff5b571392bfb94cdf8ac1d101",
+  "max_test_days_per_station_month": 12,
+  "created_utc": "2026-11-12T16:35:53.552249+00:00",
+  "test_status": "2025 not used in any previous project prediction; this freeze precedes inference",
+  "coordinate_limit": "current coordinates; nominal distance proxy, no historical location accuracy guarantee"
+}

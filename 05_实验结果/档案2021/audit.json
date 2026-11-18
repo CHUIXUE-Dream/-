@@ -1,0 +1,13 @@
+{
+  "checks": {
+    "rule_code_matches_freeze": true,
+    "new_data_downloaded_after_freeze": true,
+    "all108_metric_cells": true,
+    "claims_and_verification_one_to_one": true,
+    "max_and_longgap_use_fixed": true,
+    "no_point_changes_v5_to_v6": true,
+    "full_acquisition_restores_exact": true
+  },
+  "passed": 7,
+  "total": 7
+}

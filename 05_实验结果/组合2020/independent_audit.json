@@ -1,0 +1,10 @@
+{
+  "checks": {
+    "unrevealed_future_values_do_not_change_current_prediction": true,
+    "all24_metric_cells_recompute": true,
+    "all_frozen_checks": true
+  },
+  "prefix_probes": 93,
+  "passed": 3,
+  "total": 3
+}

@@ -1,0 +1,10 @@
+{
+  "created_utc": "2026-11-13T11:48:14.734295+00:00",
+  "missing_stations": [
+    "41009"
+  ],
+  "change": "Keep all-NA station columns omitted by pivot; no imputed reference values, model or threshold changes.",
+  "before_any_snapshot_scoring": true,
+  "adapter_sha256": "d1ca4666a3ce0842ba8c8d2aa5b40229e03d34544fab99e38ce99e3925438770",
+  "frozen_prediction_code_unchanged": true
+}

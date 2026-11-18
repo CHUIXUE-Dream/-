@@ -1,0 +1,9 @@
+{
+  "created_utc": "2026-11-14T12:30:55.055844+00:00",
+  "code_sha256": "0a8b1621ab564f72f5e9abd9a468479043a4e9422455727cb396a03ad0348631",
+  "protocol_sha256": "6e92a7648bb3ba1ec62c1228af9ae4c8efd966cbd15ba0822af0a49f11e7c898",
+  "calibration_sha256": "a4f291929d52ccf0b597e7f1d77de982678a62cae75ed7f57d41a2f03615d3a1",
+  "base_model_sha256": "97f31f68e4bf6ecdd474ed34c767fddcb3e4e720afdf24a9b20c7fe8c262d484",
+  "year": 2020,
+  "primary_tau": 0.25
+}

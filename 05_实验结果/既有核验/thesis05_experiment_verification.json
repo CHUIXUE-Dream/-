@@ -1,0 +1,17 @@
+{
+  "checks": {
+    "E1_all_splits_from_target_records": true,
+    "E4_all120_runs_from120000_events": true,
+    "E4_Kp_lowest_safe_P50": true,
+    "E4_K0_lowest_safe_P95": true,
+    "v5_audit.json": true,
+    "v5_independent_audit.json": true,
+    "v6_audit.json": true,
+    "v6_independent_audit.json": true,
+    "E2_E3_frozen_output_analysis": true,
+    "independent_refit90180_rows": true
+  },
+  "passed": 10,
+  "total": 10,
+  "scope": "Recomputed saved E1/E4 event summaries, audited E2/E3 frozen outputs, and retained independent training-reproduction evidence; no new test selection or timing measurement."
+}

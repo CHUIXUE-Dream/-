@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "public_forecasts_reproduce_1e12": true,
+    "every_hidden_reference_resolves_to_source": true,
+    "original_claim_log_unchanged": true,
+    "restored_claims_one_to_one": true,
+    "frozen_validation_code_unchanged": true,
+    "nine_scenarios_retained": true,
+    "all_methods_same922_cases": true
+  },
+  "passed": 7,
+  "total": 7,
+  "source_line_resolutions": 33192,
+  "max_prediction_difference": 3.552713678800501e-15,
+  "restored_direct_claim_count": 16596
+}

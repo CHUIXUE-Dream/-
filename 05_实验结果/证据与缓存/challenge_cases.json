@@ -1,0 +1,578 @@
+[
+  {
+    "name": "complete",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "r",
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "type": "raw",
+        "values": [
+          20,
+          22,
+          24,
+          26
+        ],
+        "unit": "degC"
+      }
+    ],
+    "expected_kind": "direct",
+    "expected_value": 23,
+    "actual": {
+      "kind": "direct",
+      "value": 23.0,
+      "certificate": {
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "statistic": "mean",
+        "evidence_ids": [
+          "r"
+        ],
+        "formula": "raw",
+        "exact_fraction": "23",
+        "unit": "degC"
+      }
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "missing",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "r",
+        "scope": "A",
+        "times": [
+          0,
+          6
+        ],
+        "type": "raw",
+        "values": [
+          20,
+          22
+        ],
+        "unit": "degC"
+      }
+    ],
+    "expected_kind": "unresolved",
+    "expected_value": null,
+    "actual": {
+      "kind": "unresolved",
+      "value": null
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "sum_mean",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "s",
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "type": "sum",
+        "value": 92,
+        "n": 4
+      }
+    ],
+    "expected_kind": "direct",
+    "expected_value": 23,
+    "actual": {
+      "kind": "direct",
+      "value": 23.0,
+      "certificate": {
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "statistic": "mean",
+        "evidence_ids": [
+          "s"
+        ],
+        "formula": "sum/n",
+        "exact_fraction": "23",
+        "unit": "degC"
+      }
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "sum_not_max",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "max",
+    "evidence": [
+      {
+        "id": "s",
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "type": "sum",
+        "value": 92,
+        "n": 4
+      }
+    ],
+    "expected_kind": "unresolved",
+    "expected_value": null,
+    "actual": {
+      "kind": "unresolved",
+      "value": null
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "unequal_groups",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "g1",
+        "scope": "A",
+        "times": [
+          0
+        ],
+        "type": "group_mean",
+        "n": 1,
+        "value": 20
+      },
+      {
+        "id": "g2",
+        "scope": "A",
+        "times": [
+          6,
+          12,
+          18
+        ],
+        "type": "group_mean",
+        "n": 3,
+        "value": 24
+      }
+    ],
+    "expected_kind": "direct",
+    "expected_value": 23,
+    "actual": {
+      "kind": "direct",
+      "value": 23.0,
+      "certificate": {
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "statistic": "mean",
+        "evidence_ids": [
+          "g1",
+          "g2"
+        ],
+        "formula": "groups",
+        "exact_fraction": "23",
+        "unit": "degC"
+      }
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "overlap",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "g1",
+        "scope": "A",
+        "times": [
+          0,
+          6
+        ],
+        "type": "group_mean",
+        "n": 2,
+        "value": 21
+      },
+      {
+        "id": "g2",
+        "scope": "A",
+        "times": [
+          6,
+          12
+        ],
+        "type": "group_mean",
+        "n": 2,
+        "value": 23
+      }
+    ],
+    "expected_kind": "unresolved",
+    "expected_value": null,
+    "actual": {
+      "kind": "unresolved",
+      "value": null
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "wrong_station",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "r",
+        "scope": "B",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "type": "raw",
+        "values": [
+          20,
+          22,
+          24,
+          26
+        ],
+        "unit": "degC"
+      }
+    ],
+    "expected_kind": "unresolved",
+    "expected_value": null,
+    "actual": {
+      "kind": "unresolved",
+      "value": null
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "local_contract",
+    "times": [
+      0,
+      6
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "r",
+        "scope": "A",
+        "times": [
+          0,
+          6
+        ],
+        "type": "raw",
+        "values": [
+          20,
+          22
+        ],
+        "unit": "degC"
+      }
+    ],
+    "expected_kind": "direct",
+    "expected_value": 21,
+    "actual": {
+      "kind": "direct",
+      "value": 21.0,
+      "certificate": {
+        "scope": "A",
+        "times": [
+          0,
+          6
+        ],
+        "statistic": "mean",
+        "evidence_ids": [
+          "r"
+        ],
+        "formula": "raw",
+        "exact_fraction": "21",
+        "unit": "degC"
+      }
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "duplicates",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "r",
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "type": "raw",
+        "values": [
+          20,
+          22,
+          24,
+          26
+        ],
+        "unit": "degC"
+      },
+      {
+        "id": "dup",
+        "scope": "A",
+        "times": [
+          0
+        ],
+        "type": "raw",
+        "values": [
+          20
+        ],
+        "unit": "degC"
+      }
+    ],
+    "expected_kind": "direct",
+    "expected_value": 23,
+    "actual": {
+      "kind": "direct",
+      "value": 23.0,
+      "certificate": {
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "statistic": "mean",
+        "evidence_ids": [
+          "dup",
+          "r"
+        ],
+        "formula": "raw",
+        "exact_fraction": "23",
+        "unit": "degC"
+      }
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "raw_conflict",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "r",
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "type": "raw",
+        "values": [
+          20,
+          22,
+          24,
+          26
+        ],
+        "unit": "degC"
+      },
+      {
+        "id": "bad",
+        "scope": "A",
+        "times": [
+          0
+        ],
+        "type": "raw",
+        "values": [
+          21
+        ],
+        "unit": "degC"
+      }
+    ],
+    "expected_kind": "conflict",
+    "expected_value": null,
+    "actual": {
+      "kind": "conflict",
+      "value": null
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "summary_conflict",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "r",
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "type": "raw",
+        "values": [
+          20,
+          22,
+          24,
+          26
+        ],
+        "unit": "degC"
+      },
+      {
+        "id": "s",
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "type": "mean",
+        "value": 24
+      }
+    ],
+    "expected_kind": "conflict",
+    "expected_value": null,
+    "actual": {
+      "kind": "conflict",
+      "value": null
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  },
+  {
+    "name": "fahrenheit",
+    "times": [
+      0,
+      6,
+      12,
+      18
+    ],
+    "statistic": "mean",
+    "evidence": [
+      {
+        "id": "r",
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "type": "raw",
+        "values": [
+          68,
+          71.6,
+          75.2,
+          78.8
+        ],
+        "unit": "degF"
+      }
+    ],
+    "expected_kind": "direct",
+    "expected_value": 23,
+    "actual": {
+      "kind": "direct",
+      "value": 23.0,
+      "certificate": {
+        "scope": "A",
+        "times": [
+          0,
+          6,
+          12,
+          18
+        ],
+        "statistic": "mean",
+        "evidence_ids": [
+          "r"
+        ],
+        "formula": "raw",
+        "exact_fraction": "23",
+        "unit": "degC"
+      }
+    },
+    "passed": true,
+    "author": "current assistant, not independent human review"
+  }
+]

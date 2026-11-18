@@ -1,0 +1,13 @@
+{
+  "created_utc": "2026-11-13T11:46:33.823971+00:00",
+  "version": "v5",
+  "code_sha256": "b2ee9bd8d0274d6987e101d2310e9d24c5f3f805b453bb181947cb5b931639d6",
+  "protocol_sha256": "554b1f3eec8631988684472b3d33ff2366f650498e72d68d1b05e23aa4c05312",
+  "model_sha256": "97f31f68e4bf6ecdd474ed34c767fddcb3e4e720afdf24a9b20c7fe8c262d484",
+  "decisions_sha256": "e31145eba9e402b88e75a1bf9b9fb392595dc81ee6104e3a187d7ce4d89728d1",
+  "calibration_sha256": "7a66e4a1253637eaf12aaeb8a70e7c4c6579abd7a6b828086e5eb994ba2d21b9",
+  "historical_manifest_sha256": "dcdad735d20f12c8b027e9b5e04273d8e7c847ff5b571392bfb94cdf8ac1d101",
+  "v4_freeze_sha256": "c960f1c30d205395819a8bac037eaafc5fd6f84ec8d41a7fba79481c0e8ddb80",
+  "evaluation": "Not yet downloaded. First locked realtime snapshot will be evaluated once; no tuning on it.",
+  "seed": 20261113
+}
